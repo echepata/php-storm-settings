@@ -1,0 +1,13 @@
+<templateSet group="user">
+  <template name="[{* *}]" value="[{*$SELECTION$*}]" description="Smarty Comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="echofile" value="echo __FILE__ . ' ' . __LINE__ . '&lt;/br&gt;';" description="echo the file and line" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

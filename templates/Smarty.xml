@@ -1,0 +1,99 @@
+<templateSet group="Smarty">
+  <template name="if" value="[{if $CONDITION$}]&#10;&#10;[{else}]&#10;&#10;[{/if}]" description="Create an if construct for SMARTY" toReformat="true" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="var" value="[{$$$VARIABLE$|@var_dump}]" description="Creates a var_dump construct" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="oxprice" value="[{oxprice price=$$$PRICE$ currency=$currency}]" description="Creates a oxprice construct" toReformat="false" toShortenFQNames="true">
+    <variable name="PRICE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="assign" value="[{assign var=&quot;$NAME$&quot; value=$VALUE$}]" description="Creates an assign construct" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="lang" value="[{oxmultilang ident=&quot;$IDENT$&quot;}]" description="Creates a oxmultilang construct" toReformat="false" toShortenFQNames="true">
+    <variable name="IDENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="block" value="[{block name=&quot;$IDENT$&quot;}]&#10;&#10;[{/block}]" description="Creates a block construct" toReformat="false" toShortenFQNames="true">
+    <variable name="IDENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="include" value="[{include file=&quot;$IDENT$&quot;}]" description="Creates an include construct" toReformat="false" toShortenFQNames="true">
+    <variable name="IDENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="content" value="[{oxifcontent ident=&quot;$IDENT$&quot; object=&quot;oContent&quot;}]&#10;    [{$oContent-&gt;oxcontents__oxcontent-&gt;value}]&#10;[{/oxifcontent}]" description="Creates a oxifcontent construct" toReformat="false" toShortenFQNames="true">
+    <variable name="IDENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="foreach" value="[{foreach from=$$$ARRAY$ item=&quot;$ITEM$&quot;}]&#10;&#10;[{/foreach}]" description="Creates a foreach construct" toReformat="false" toShortenFQNames="true">
+    <variable name="ARRAY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="strip" value="[{strip}]&#10;&#10;[{/strip}]" description="Creates a strip block" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="seourl" value="[{oxgetseourl ident=$oViewConf-&gt;getSelfLink()|cat:&quot;cl=$CONTROLLER$&quot;}]" description="Creates an oxgetseourl call" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTROLLER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="capture" value="[{capture name=&quot;$CAPTURENAME$&quot;}]&#10;&#9;$JSCODE$&#10;[{/capture}]&#10;[{oxscript add=$$smarty.capture.$CAPTURENAME$}]" description="Creates a capture construct, to save a js script and add it to the page using an oxscript" toReformat="false" toShortenFQNames="true">
+    <variable name="CAPTURENAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="JSCODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\nxsmod'" />
+    <option name="defaultScopeName" value="Directory 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\nxsmod'" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\nxsmod'" />
+    <recentFileMasks>
+      <mask>*cron*</mask>
+      <mask>*context*</mask>
+      <mask>*Context*</mask>
+      <mask>*_lang*</mask>
+      <mask>*article*</mask>
+      <mask>*.scss</mask>
+      <mask>*ready.js</mask>
+      <mask>oxviewconfig</mask>
+      <mask>oxviewconfig*</mask>
+      <mask>*oxviewconfig*</mask>
+      <mask>*css</mask>
+      <mask>*js</mask>
+      <mask>*start*</mask>
+      <mask>*base*</mask>
+      <mask>*user*</mask>
+      <mask>*basket*</mask>
+      <mask>*select*</mask>
+      <mask>*bower*</mask>
+      <mask>*php</mask>
+      <mask>*tpl</mask>
+      <mask>*lang*</mask>
+      <mask>*lang.tpl</mask>
+      <mask>*lang.php</mask>
+      <mask>*.css</mask>
+      <mask>*form*</mask>
+      <mask>*category*</mask>
+      <mask>*.js</mask>
+      <mask>*metadata*</mask>
+      <mask>*.tpl</mask>
+      <mask>*.php</mask>
+    </recentFileMasks>
+  </component>
+</application>
