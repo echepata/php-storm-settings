@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\nxsmod'" />
     <option name="defaultScopeName" value="Directory 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\nxsmod'" />
-    <option name="showResultsInSeparateView" value="true" />
-    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Directory 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\nxsmod'" />
     <recentFileMasks>
       <mask>*cron*</mask>
