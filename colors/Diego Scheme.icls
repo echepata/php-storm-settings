@@ -1948,6 +1948,9 @@
         <option name="FOREGROUND" value="9933cc" />
       </value>
     </option>
+    <option name="SMARTY_IDENTIFIER">
+      <value />
+    </option>
     <option name="SMARTY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7833" />
