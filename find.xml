@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\nxsmod'" />
-    <option name="defaultScopeName" value="Directory 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\nxsmod'" />
-    <option name="SEARCH_SCOPE" value="Directory 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\nxsmod'" />
+    <option name="customScope" value="File 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\alphabytes\alpha_pimimport\core\alpha_pim_import_complete.php'" />
+    <option name="defaultScopeName" value="File 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\alphabytes\alpha_pimimport\core\alpha_pim_import_complete.php'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\alphabytes\alpha_pimimport\core\alpha_pim_import_complete.php'" />
+    <option name="FILE_MASK" value="*import*" />
     <recentFileMasks>
-      <mask>*cron*</mask>
       <mask>*context*</mask>
       <mask>*Context*</mask>
       <mask>*_lang*</mask>
@@ -34,6 +34,7 @@
       <mask>*metadata*</mask>
       <mask>*.tpl</mask>
       <mask>*.php</mask>
+      <mask>*import*</mask>
     </recentFileMasks>
   </component>
 </application>
