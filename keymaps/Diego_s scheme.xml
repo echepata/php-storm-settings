@@ -39,6 +39,9 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="ParameterInfo" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
