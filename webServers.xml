@@ -71,8 +71,8 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
-      <webServer id="948822bf-d866-4dd2-94a9-f06ac4e38b88" name="formmed-vagrant" url="http://127.0.0.1">
-        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/project" accessType="SFTP" password="dfdcdfcbdfcddfd8dfcbdfc4dfde" username="vagrant">
+      <webServer id="948822bf-d866-4dd2-94a9-f06ac4e38b88" name="FormmedShopware - Vagrant" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/nxs.dev/shop" accessType="SFTP" password="dfdcdfcbdfcddfd8dfcbdfc4dfde" username="vagrant">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
