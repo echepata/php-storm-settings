@@ -23,7 +23,6 @@
       <mask>*basket*</mask>
       <mask>*select*</mask>
       <mask>*bower*</mask>
-      <mask>*php</mask>
       <mask>*tpl</mask>
       <mask>*lang*</mask>
       <mask>*lang.tpl</mask>
@@ -36,6 +35,7 @@
       <mask>*.tpl</mask>
       <mask>*.php</mask>
       <mask>*import*</mask>
+      <mask>*php</mask>
     </recentFileMasks>
   </component>
 </application>
