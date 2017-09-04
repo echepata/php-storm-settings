@@ -72,6 +72,7 @@
     <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
   </component>
   <component name="PhpRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
