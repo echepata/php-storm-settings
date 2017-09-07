@@ -118,4 +118,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="intf" value="public function $NAME$($PARAMETERS$);" description="public function for interface" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
