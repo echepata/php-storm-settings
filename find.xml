@@ -3,9 +3,7 @@
     <option name="customScope" value="Project 'ahboxid'" />
     <option name="defaultScopeName" value="Project 'ahboxid'" />
     <option name="SEARCH_SCOPE" value="Project 'ahboxid'" />
-    <option name="FILE_MASK" value="*smarty*php" />
     <recentFileMasks>
-      <mask>*Context*</mask>
       <mask>*_lang*</mask>
       <mask>*article*</mask>
       <mask>*.scss</mask>
@@ -35,6 +33,7 @@
       <mask>*php</mask>
       <mask>*lang.php</mask>
       <mask>*smarty*php</mask>
+      <mask>*lang*php</mask>
     </recentFileMasks>
   </component>
 </application>
