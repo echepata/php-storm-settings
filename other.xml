@@ -6,10 +6,13 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>SQL</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>BashSupport</id>
+            <id>SqlResolveInspection</id>
           </State>
         </selected-state>
       </profile-state>

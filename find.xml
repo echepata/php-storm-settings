@@ -1,12 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project 'ahboxid'" />
     <option name="defaultScopeName" value="Project 'ahboxid'" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'ahboxid'" />
+    <option name="FILE_MASK" value="*import*" />
     <recentFileMasks>
       <mask>*_lang*</mask>
       <mask>*article*</mask>
@@ -33,11 +30,11 @@
       <mask>*metadata*</mask>
       <mask>*.tpl</mask>
       <mask>*.php</mask>
-      <mask>*import*</mask>
       <mask>*php</mask>
       <mask>*lang.php</mask>
       <mask>*smarty*php</mask>
       <mask>*lang*php</mask>
+      <mask>*import*</mask>
     </recentFileMasks>
   </component>
 </application>
