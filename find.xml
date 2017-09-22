@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ahboxid'" />
-    <option name="defaultScopeName" value="Project 'ahboxid'" />
-    <option name="SEARCH_SCOPE" value="Project 'ahboxid'" />
+    <option name="customScope" value="File 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\alphabytes\alpha_pimimport\core\alpha_pim_import_complete.php'" />
+    <option name="defaultScopeName" value="File 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\alphabytes\alpha_pimimport\core\alpha_pim_import_complete.php'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\alphabytes\alpha_pimimport\core\alpha_pim_import_complete.php'" />
     <recentFileMasks>
       <mask>*_lang*</mask>
       <mask>*article*</mask>
