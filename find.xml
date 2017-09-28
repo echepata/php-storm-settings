@@ -5,9 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\alphabytes\alpha_pimimport\core\alpha_pim_import_complete.php'" />
-    <option name="FILE_MASK" value="*config*" />
     <recentFileMasks>
-      <mask>*article*</mask>
       <mask>*.scss</mask>
       <mask>*ready.js</mask>
       <mask>oxviewconfig</mask>
@@ -37,6 +35,7 @@
       <mask>*lang*php</mask>
       <mask>*import*</mask>
       <mask>*config*</mask>
+      <mask>*/modules/*</mask>
     </recentFileMasks>
   </component>
 </application>
