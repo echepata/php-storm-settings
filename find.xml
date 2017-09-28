@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\alphabytes\alpha_pimimport\core\alpha_pim_import_complete.php'" />
+    <option name="FILE_MASK" value="*lang.php" />
     <recentFileMasks>
       <mask>*.scss</mask>
       <mask>*ready.js</mask>
@@ -19,7 +20,6 @@
       <mask>*basket*</mask>
       <mask>*select*</mask>
       <mask>*bower*</mask>
-      <mask>*tpl</mask>
       <mask>*lang*</mask>
       <mask>*lang.tpl</mask>
       <mask>*.css</mask>
@@ -30,12 +30,13 @@
       <mask>*.tpl</mask>
       <mask>*.php</mask>
       <mask>*php</mask>
-      <mask>*lang.php</mask>
       <mask>*smarty*php</mask>
       <mask>*lang*php</mask>
       <mask>*import*</mask>
       <mask>*config*</mask>
       <mask>*/modules/*</mask>
+      <mask>*tpl</mask>
+      <mask>*lang.php</mask>
     </recentFileMasks>
   </component>
 </application>
