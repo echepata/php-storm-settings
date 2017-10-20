@@ -9,17 +9,6 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
-      <webServer id="0ca346bd-3ce3-434f-83d5-2f274bd7afd0" name="udobaer" url="http://udobaer-de.php53.nxs.dev:8080/shop">
-        <fileTransfer mountedRoot="V:\htdocs\udobaer" accessType="MOUNT" />
-      </webServer>
-      <webServer id="1bb8720f-2074-44d9-bb89-1e5f3ff739b1" name="udobaer (1)" url="http://www.nxs.dev:8080/">
-        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/home/vagrant/www/nxs.dev/m-udobaer-at" accessType="SFTP" password="dfdcdfcbdfcddfd8dfcbdfc4dfde" username="vagrant">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
       <webServer id="ad2f252e-cd7b-4105-8246-19dca3a62882" name="Nimbits" url="http://nimbits.php54.jui.nexus-developer.com/">
         <fileTransfer accessType="LOCAL" />
       </webServer>
