@@ -13,7 +13,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="42436d85-0bb5-4d10-abf4-ac71792703ee" name="ahboxid" url="http://127.0.0.1">
-        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/nxs.dev/www" accessType="SFTP" password="dfdcdfcbdfcddfd8dfcbdfc4dfde" username="vagrant">
+        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/nxs.dev" accessType="SFTP" password="dfdcdfcbdfcddfd8dfcbdfc4dfde" username="vagrant">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
