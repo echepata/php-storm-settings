@@ -73,4 +73,5 @@
   <action id="com.jetbrains.php.internal.PhpShowFQNInternalAction">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="com.wix.rt.switch" />
 </keymap>
