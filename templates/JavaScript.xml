@@ -70,4 +70,14 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="try" value="try {&#10;    $CODE$&#10;} catch (err) {&#10;    $EXCEPTION$&#10;}" description="Adds a try catch template" toReformat="false" toShortenFQNames="true">
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXCEPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
