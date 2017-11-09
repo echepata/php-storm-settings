@@ -3,12 +3,18 @@
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="INSTRUCTIONS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="log" value="console.log($VARIABLE$);" description="Inserts an console.log expression" toReformat="true" toShortenFQNames="true">
     <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
@@ -24,7 +30,7 @@
     <variable name="PARAM" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="false" />
+      <option name="JS_EXPRESSION" value="true" />
       <option name="JSX_HTML" value="true" />
       <option name="JS_STATEMENT" value="true" />
     </context>
