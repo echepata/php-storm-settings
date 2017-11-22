@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\alphabytes\alpha_pimimport\core\alpha_pim_import_complete.php'" />
     <option name="defaultScopeName" value="File 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\alphabytes\alpha_pimimport\core\alpha_pim_import_complete.php'" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="File 'D:\Diego\Documents\PhpStormProjects\deltav\www\modules\alphabytes\alpha_pimimport\core\alpha_pim_import_complete.php'" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>oxviewconfig</mask>
       <mask>oxviewconfig*</mask>
@@ -31,11 +34,11 @@
       <mask>*/modules/*</mask>
       <mask>*tpl</mask>
       <mask>*.css</mask>
-      <mask>*.scss</mask>
       <mask>*lang.php</mask>
       <mask>*.tpl</mask>
       <mask>*.php</mask>
       <mask>*.less</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
