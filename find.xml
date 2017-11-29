@@ -23,7 +23,6 @@
       <mask>*lang.tpl</mask>
       <mask>*form*</mask>
       <mask>*category*</mask>
-      <mask>*.js</mask>
       <mask>*php</mask>
       <mask>*smarty*php</mask>
       <mask>*lang*php</mask>
@@ -38,6 +37,7 @@
       <mask>*.less</mask>
       <mask>*.scss</mask>
       <mask>*metadata*</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
