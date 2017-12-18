@@ -82,6 +82,10 @@
           <option name="url" value="https://nxs_echeverri@bitbucket.org/nexusnetsoft/deltav-imports.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://nxs_echeverri@bitbucket.org/nexusnetsoft/atlascopcoshopware.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Diego\Documents\PhpStormProjects" />
