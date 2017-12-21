@@ -3,7 +3,7 @@
     <property name="created">2017-12-21T14:12:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2017-12-21T16:56:16</property>
+    <property name="modified">2017-12-21T17:39:54</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -16,7 +16,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="d5746c" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="d5746c" />
     <option name="FILESTATUS_RENAMED" value="d5746c" />
-    <option name="FILESTATUS_UNKNOWN" value="a52c2e" />
+    <option name="FILESTATUS_UNKNOWN" value="a03e33" />
     <option name="FILESTATUS_modifiedOutside" value="d5746c" />
   </colors>
 </scheme>
