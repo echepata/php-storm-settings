@@ -952,6 +952,18 @@
         <option name="BACKGROUND" value="343434" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="656565" />
+        <option name="BACKGROUND" value="343434" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="9a9a9a" />
+        <option name="BACKGROUND" value="343434" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fda5ff" />
