@@ -1,7 +1,6 @@
 <templateSet group="user">
   <template name="[{* *}]" value="[{*$SELECTION$*}]" description="Smarty Comment" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
     </context>
   </template>
