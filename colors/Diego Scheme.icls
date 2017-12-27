@@ -5,8 +5,10 @@
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="feff3e" />
+    <option name="ANNOTATIONS_COLOR" value="0" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="252525" />
@@ -20,6 +22,11 @@
     <option name="MODIFIED_LINES_COLOR" value="feff39" />
     <option name="SELECTED_INDENT_GUIDE" value="404040" />
     <option name="SELECTION_BACKGROUND" value="644d6e" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="204020" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="403f20" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="402f20" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="422121" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="361b2e" />
     <option name="WHITESPACES" value="404040" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4c4c4c" />
   </colors>
