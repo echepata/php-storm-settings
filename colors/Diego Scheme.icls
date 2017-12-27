@@ -90,6 +90,29 @@
         <option name="FOREGROUND" value="f8bab5" />
       </value>
     </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="9a9a9a" />
+        <option name="BACKGROUND" value="555555" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="939393" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="dddddd" />
+        <option name="BACKGROUND" value="565656" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="c4c4c4" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="743d3d" />
