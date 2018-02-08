@@ -32,6 +32,12 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="PhpListenDebugAction" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarToolBarOthers" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Git.Push" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
