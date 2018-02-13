@@ -523,6 +523,12 @@
         <option name="FOREGROUND" value="66cc33" />
       </value>
     </option>
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="4e7159" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="96f2ff" />
@@ -727,8 +733,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="101" />
-        <option name="BACKGROUND" value="c7c7ff" />
+        <option name="BACKGROUND" value="3b3b51" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
