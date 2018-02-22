@@ -12,7 +12,7 @@
       <webServer id="ad2f252e-cd7b-4105-8246-19dca3a62882" name="Nimbits" url="http://nimbits.php54.jui.nexus-developer.com/">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="42436d85-0bb5-4d10-abf4-ac71792703ee" name="ahboxid" url="http://127.0.0.1">
+      <webServer id="42436d85-0bb5-4d10-abf4-ac71792703ee" name="ahboxid" url="http://www.dev.nxs:8080/">
         <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/nxs.dev" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
