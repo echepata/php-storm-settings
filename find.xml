@@ -1,17 +1,16 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Node" />
     <option name="defaultScopeName" value="Node" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Node" />
+    <option name="FILE_MASK" value="*lang*" />
     <recentFileMasks>
-      <mask>*basket*</mask>
-      <mask>*select*</mask>
-      <mask>*bower*</mask>
-      <mask>*lang*</mask>
       <mask>*lang.tpl</mask>
       <mask>*form*</mask>
       <mask>*category*</mask>
@@ -38,6 +37,10 @@
       <mask>metada</mask>
       <mask>*metadata*</mask>
       <mask>*.tpl</mask>
+      <mask>**</mask>
+      <mask>*l*</mask>
+      <mask>*la*</mask>
+      <mask>*lang*</mask>
     </recentFileMasks>
   </component>
 </application>
