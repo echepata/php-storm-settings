@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Node" />
-    <option name="defaultScopeName" value="Node" />
+    <option name="customScope" value="OXID" />
+    <option name="defaultScopeName" value="OXID" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Node" />
+    <option name="SEARCH_SCOPE" value="OXID" />
     <recentFileMasks>
       <mask>*lang.tpl</mask>
       <mask>*form*</mask>
