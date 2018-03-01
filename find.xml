@@ -6,9 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*lang.tpl</mask>
-      <mask>*form*</mask>
-      <mask>*category*</mask>
       <mask>*php</mask>
       <mask>*smarty*php</mask>
       <mask>*lang*php</mask>
@@ -31,11 +28,14 @@
       <mask>metad</mask>
       <mask>metada</mask>
       <mask>*metadata*</mask>
-      <mask>*.tpl</mask>
       <mask>**</mask>
       <mask>*l*</mask>
       <mask>*la*</mask>
       <mask>*lang*</mask>
+      <mask>.</mask>
+      <mask>.t</mask>
+      <mask>.tpl</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
