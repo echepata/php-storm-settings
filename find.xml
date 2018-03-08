@@ -16,7 +16,6 @@
       <mask>*.css</mask>
       <mask>*lang.php</mask>
       <mask>*.less</mask>
-      <mask>*.scss</mask>
       <mask>*.js</mask>
       <mask>mewt</mask>
       <mask>mew</mask>
@@ -26,7 +25,6 @@
       <mask>meta</mask>
       <mask>metad</mask>
       <mask>metada</mask>
-      <mask>*metadata*</mask>
       <mask>**</mask>
       <mask>*l*</mask>
       <mask>*la*</mask>
@@ -36,6 +34,8 @@
       <mask>.tpl</mask>
       <mask>*.tpl</mask>
       <mask>*.php</mask>
+      <mask>*metadata*</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
