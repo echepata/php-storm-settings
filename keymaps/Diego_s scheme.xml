@@ -50,6 +50,9 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="ParameterInfo" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="Refactorings.QuickListPopupAction" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
