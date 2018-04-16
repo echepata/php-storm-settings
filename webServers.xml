@@ -17,8 +17,8 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
-      <webServer id="b45bbc40-df39-4615-a62f-ce86e9e35875" name="3m" url="http://127.0.0.1">
-        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/nxs.dev/www" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
+      <webServer id="b45bbc40-df39-4615-a62f-ce86e9e35875" name="3m" url="http://192.168.99.100">
+        <fileTransfer host="192.168.99.100" port="2222" rootFolder="/var/www/nxs.dev/www" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
