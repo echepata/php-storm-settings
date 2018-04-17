@@ -2,5 +2,6 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="Question_1.dtd" location="D:/Diego/OneDrive/Documents/Strathfield/BUILD A DOCUMENT USING EXTENSIBLE MARKUP LANGUAGE/OnlineActivity1/Question1/Question_1.dtd" />
     <resource url="Question_2.dtd" location="D:/Diego/OneDrive/Documents/Strathfield/BUILD A DOCUMENT USING EXTENSIBLE MARKUP LANGUAGE/OnlineActivity1/Question2/Question_2.dtd" />
+    <resource url="http://symfony.com/schema/dic/services" location="$USER_HOME$/.PhpStorm2017.3/system/extResources/7f46d5c4_services-1.0.xsd" />
   </component>
 </application>
