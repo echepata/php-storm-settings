@@ -37,6 +37,9 @@
   <action id="Git.Merge">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoDeclaration">
@@ -66,6 +69,7 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="ScrollTreeToCenter" />
+  <action id="SurroundWith" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -84,6 +88,9 @@
   <action id="Uml.ShowDiff" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
   </action>
   <action id="com.jetbrains.php.internal.PhpShowFQNInternalAction">
     <keyboard-shortcut first-keystroke="f1" />
