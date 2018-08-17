@@ -89,7 +89,7 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
-      <webServer id="a57373af-d4e5-4fb5-93ce-fa2dccbd9846" name="deltavVagrant" url="http://127.0.0.1">
+      <webServer id="a57373af-d4e5-4fb5-93ce-fa2dccbd9846" name="deltavVagrant" url="http://localhost:8080">
         <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/project" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
