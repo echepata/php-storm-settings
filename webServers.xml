@@ -1,40 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="f5400762-52b2-45ba-a5e0-8f9e5b4d5d47" name="DieselTechnic" url="http://127.0.0.1">
-        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/project/" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
       <webServer id="42436d85-0bb5-4d10-abf4-ac71792703ee" name="ahboxid" url="http://www.dev.nxs:8080/">
         <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/nxs.dev" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="b45bbc40-df39-4615-a62f-ce86e9e35875" name="3m" url="http://192.168.99.100">
-        <fileTransfer host="192.168.99.100" port="2222" rootFolder="/var/www/nxs.dev/www" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="a2d487a7-608f-4361-b203-1ee0c75e65a3" name="espe" url="http://127.0.0.1">
-        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/nxs.dev/www" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="f3b75ebc-333e-4ec3-bdce-ecf894b302de" name="3mespe" url="http://127.0.0.1">
-        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/nxs.dev/www" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -57,14 +25,6 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
-      <webServer id="446bc262-c83d-4bf6-8bd0-617c2f01dd58" name="homestead" url="http://127.0.0.1">
-        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/home/vagrant/Code" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
       <webServer id="f725ff07-2745-4184-83ea-0b702e287fe0" name="www@juandiego.online" url="http://ftp.juandiego.online">
         <fileTransfer host="ftp.juandiego.online" port="2222" rootFolder="/subdomains/www/" accessType="SFTP" username="juandiegoonline" password="dfe0dfdfdfcbdfc4dfeedfc3dfcfdfcddfc5df93df9bdf87">
           <advancedOptions>
@@ -75,14 +35,6 @@
       </webServer>
       <webServer id="0fd940be-ed5d-487d-aef6-87ff3491d2a7" name="blog@juandiego.online" url="http://ftp.juandiego.online">
         <fileTransfer host="ftp.juandiego.online" port="2222" rootFolder="/subdomains/blog/" accessType="SFTP" username="juandiegoonline" password="dfe0dfdfdfcbdfc4dfeedfc3dfcfdfcddfc5df93df9bdf87">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="84f095a5-0eec-4e2e-b09e-daf152ddb8cc" name="wpDistillery" url="http://127.0.0.1">
-        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
