@@ -106,6 +106,10 @@
           <option name="url" value="git@bitbucket.org:nexusgruppe/gerl-oxid.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:nexusgruppe/prym-shopware.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Diego\Documents\PhpStormProjects" />
