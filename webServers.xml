@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="42436d85-0bb5-4d10-abf4-ac71792703ee" name="ahboxid" url="http://www.dev.nxs:8080/">
-        <fileTransfer host="192.168.99.100" port="2222" rootFolder="/var/www/nxs.dev" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
       <webServer id="e16ba9ed-a71d-4fea-8712-b0ae18d3e888" name="deltav-wordpress" url="http://127.0.0.1">
         <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/project/www/cms/" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
           <advancedOptions>
