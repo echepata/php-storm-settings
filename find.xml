@@ -1,12 +1,16 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Import" />
     <option name="defaultScopeName" value="Import" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Import" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>*.css</mask>
       <mask>*.less</mask>
       <mask>*.js</mask>
       <mask>mewt</mask>
@@ -36,6 +40,7 @@
       <mask>*lan</mask>
       <mask>*lang</mask>
       <mask>*lang*</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
