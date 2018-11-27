@@ -1,14 +1,7 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="false" />
       <option name="SMART_TABS" value="true" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="80" />
@@ -21,9 +14,16 @@
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="VALUE_ALIGNMENT" value="1" />
   </CssCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,dl,ul,dd" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
+    <option name="HTML_KEEP_WHITESPACES_INSIDE" value="" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
-    <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
+    <option name="ALIGN_VAR_STATEMENTS" value="1" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
@@ -34,7 +34,7 @@
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
-    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
+    <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
   </PHPCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
@@ -208,6 +208,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
