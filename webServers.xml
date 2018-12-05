@@ -57,6 +57,9 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
+      <webServer id="07b04bd3-7613-48a5-8f45-76af7ed33a90" name="Chrome Jira Extension" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
