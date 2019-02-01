@@ -6,7 +6,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
 </application>
