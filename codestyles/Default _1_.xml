@@ -35,6 +35,7 @@
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
+    <option name="ALIGN_CLASS_CONSTANTS" value="true" />
   </PHPCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
@@ -144,7 +145,6 @@
             <match>
               <CONST>true</CONST>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
