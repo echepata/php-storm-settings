@@ -42,7 +42,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="52149efc-7461-452c-841a-16cb0162729d" name="FormmedSoaRegistry - Vagrant" url="http://www.dev.nxs:8080">
-        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/nxs.dev/www" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
+        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/nxs.dev" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
