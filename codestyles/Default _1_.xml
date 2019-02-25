@@ -36,6 +36,7 @@
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
+    <option name="SPACE_BEFORE_COLON_IN_RETURN_TYPE" value="true" />
   </PHPCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
