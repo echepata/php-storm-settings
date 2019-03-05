@@ -5,13 +5,14 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>*la</mask>
       <mask>*lang</mask>
       <mask>*lang*</mask>
@@ -31,7 +32,6 @@
       <mask>*facet*</mask>
       <mask>*facet`*</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>viw*.js</mask>
       <mask>vi*.js</mask>
@@ -40,6 +40,9 @@
       <mask>*view/*.js</mask>
       <mask>*/view/*.js</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
