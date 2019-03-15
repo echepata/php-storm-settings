@@ -8,7 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Shopware" />
     <recentFileMasks>
-      <mask>*ma*</mask>
       <mask>*manu*</mask>
       <mask>*man</mask>
       <mask>*ma</mask>
@@ -38,6 +37,7 @@
       <mask>*config.</mask>
       <mask>*config.x</mask>
       <mask>*config.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
