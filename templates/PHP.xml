@@ -121,4 +121,10 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="do" value="do {&#10;    $END$&#10;} while ($CONDITION$);" description="do-while construct" toReformat="true" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
