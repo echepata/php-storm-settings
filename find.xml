@@ -5,37 +5,17 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*manu*</mask>
-      <mask>*man</mask>
-      <mask>*ma</mask>
-      <mask>*m</mask>
-      <mask>*.t</mask>
-      <mask>*.tpl</mask>
-      <mask>**</mask>
-      <mask>*fa*</mask>
-      <mask>*face*</mask>
-      <mask>*facet*</mask>
-      <mask>*facet`*</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>viw*.js</mask>
-      <mask>vi*.js</mask>
-      <mask>view*.js</mask>
-      <mask>*view*.js</mask>
-      <mask>*view/*.js</mask>
-      <mask>*/view/*.js</mask>
-      <mask>*.js</mask>
-      <mask>*.</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
-      <mask>*co</mask>
-      <mask>*confi</mask>
-      <mask>*config</mask>
-      <mask>*config.</mask>
-      <mask>*config.x</mask>
-      <mask>*config.xml</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.tpl" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
