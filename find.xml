@@ -17,5 +17,7 @@
     <mask>*.php</mask>
     <mask>*.tpl</mask>
     <mask>*.sql</mask>
+    <mask>*xml</mask>
+    <mask>*snippet*</mask>
   </component>
 </application>
