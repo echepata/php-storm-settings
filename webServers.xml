@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="e16ba9ed-a71d-4fea-8712-b0ae18d3e888" name="deltav-wordpress" url="http://127.0.0.1">
-        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/project/www/cms/" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
       <webServer id="948822bf-d866-4dd2-94a9-f06ac4e38b88" name="FormmedShopware - Vagrant" url="https://shop.nxs.dev:8081">
         <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/nxs.dev/shop_base" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
           <advancedOptions>
@@ -33,14 +25,6 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
-      <webServer id="a57373af-d4e5-4fb5-93ce-fa2dccbd9846" name="deltavVagrant" url="http://localhost:8080">
-        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/project" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
       <webServer id="52149efc-7461-452c-841a-16cb0162729d" name="FormmedSoaRegistry - Vagrant" url="http://www.dev.nxs:8080">
         <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/nxs.dev" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
           <advancedOptions>
@@ -56,9 +40,6 @@
           </advancedOptions>
           <option name="port" value="2222" />
         </fileTransfer>
-      </webServer>
-      <webServer id="07b04bd3-7613-48a5-8f45-76af7ed33a90" name="Chrome Jira Extension" url="http://localhost">
-        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
   </component>
