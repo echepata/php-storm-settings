@@ -16,7 +16,7 @@
               <option value="com.intellij.diff.tools.dir.DirDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
-              <option value="com.intellij.database.diff.SchemaDiffTool" />
+              <option value="com.intellij.database.model.diff.SchemaDiffTool" />
             </list>
           </option>
         </PlaceSettings>
