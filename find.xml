@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="VM-Service" />
-    <option name="defaultScopeName" value="VM-Service" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="VM-Service" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,5 +19,6 @@
     <mask>*.sql</mask>
     <mask>*xml</mask>
     <mask>*snippet*</mask>
+    <mask>*route*</mask>
   </component>
 </application>
