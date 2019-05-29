@@ -20,5 +20,6 @@
     <mask>*xml</mask>
     <mask>*snippet*</mask>
     <mask>*route*</mask>
+    <mask>.php</mask>
   </component>
 </application>
