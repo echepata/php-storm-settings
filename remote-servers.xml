@@ -2,8 +2,7 @@
   <component name="RemoteServers">
     <remote-server name="Docker" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://localhost:2375" />
-        <option name="machine" value="default" />
+        <option name="apiUrl" value="http://pol-de.dev.nxs:2375" />
       </configuration>
     </remote-server>
   </component>
