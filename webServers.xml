@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="7e544438-4be0-460a-8f81-9bdee194a340" name="Pollin Docker" url="http://pol-de.dev.nxs">
+        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/data/shopware/development" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
       <webServer id="948822bf-d866-4dd2-94a9-f06ac4e38b88" name="FormmedShopware - Vagrant" url="https://shop.nxs.dev:8081">
         <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www/nxs.dev/shop_base" accessType="SFTP" username="vagrant" password="dfdcdfcbdfcddfd8dfcbdfc4dfde">
           <advancedOptions>
@@ -39,6 +47,22 @@
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b5714953-c08e-4a5f-b53c-faa8629c1d77" name="Pollin Dev" url="http://pol-de.dev.nxs">
+        <fileTransfer host="37.123.111.232" port="22" privateKey="C:\Users\Diego\.ssh\id_rsa" rootFolder="/var/www/dev.pollin.de/web" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d6c8faf9-1d12-4902-a0e0-83b3ebe457ff" name="Pollin Stage" url="http://pol-de.dev.nxs">
+        <fileTransfer host="37.123.111.232" port="22" privateKey="C:\Users\Diego\.ssh\id_rsa" rootFolder="/var/www/stage.pollin.de/web" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
