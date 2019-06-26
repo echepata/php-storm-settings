@@ -65,6 +65,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="0f28c629-7c60-4414-a5a2-ddb5c5fd02a8" name="XAMPP" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
