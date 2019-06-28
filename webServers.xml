@@ -68,6 +68,14 @@
       <webServer id="0f28c629-7c60-4414-a5a2-ddb5c5fd02a8" name="XAMPP" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="56e88b19-e549-4673-9a31-87980545e96a" name="Seidensticker Docker" url="http://sei.dev.nxs">
+        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/data/shopware/development" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
