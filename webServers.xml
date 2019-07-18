@@ -9,6 +9,9 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
+      <webServer id="80feb622-0666-4c48-abab-93eec23c9344" name="Pollin XAMPP" url="http://pol-de.dev.nxs">
+        <fileTransfer port="0" mountedRoot="C:\xamppProjects\Pollin\htdocs" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
