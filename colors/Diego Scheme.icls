@@ -18,6 +18,7 @@
     <option name="INDENT_GUIDE" value="404040" />
     <option name="LINE_NUMBERS_COLOR" value="ffffff" />
     <option name="MODIFIED_LINES_COLOR" value="feff39" />
+    <option name="RIGHT_MARGIN_COLOR" value="5c5c5c" />
     <option name="SELECTED_INDENT_GUIDE" value="404040" />
     <option name="SELECTION_BACKGROUND" value="644d6e" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="337933" />
@@ -25,6 +26,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="402f20" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="422121" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="361b2e" />
+    <option name="VISUAL_INDENT_GUIDE" value="5c5c5c" />
     <option name="WHITESPACES" value="404040" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4c4c4c" />
   </colors>
