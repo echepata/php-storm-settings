@@ -40,6 +40,9 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="Git.Reset">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoDeclaration">
