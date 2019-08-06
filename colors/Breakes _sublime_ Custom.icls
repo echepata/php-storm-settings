@@ -3,7 +3,7 @@
     <property name="created">2019-08-05T17:59:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-08-06T17:25:15</property>
+    <property name="modified">2019-08-06T17:37:14</property>
     <property name="originalScheme">Celeste Custom</property>
   </metaInfo>
   <colors>
@@ -25,7 +25,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="eee8d5" />
     <option name="SELECTED_INDENT_GUIDE" value="93a1a1" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
-    <option name="SELECTION_BACKGROUND" value="ebeeef" />
+    <option name="SELECTION_BACKGROUND" value="ebeadf" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="93a1a1" />
     <option name="WHITESPACES" value="93a1a1" />
