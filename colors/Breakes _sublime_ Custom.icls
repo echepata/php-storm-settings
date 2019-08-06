@@ -3,7 +3,7 @@
     <property name="created">2019-08-05T17:59:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-08-06T17:37:14</property>
+    <property name="modified">2019-08-06T18:58:13</property>
     <property name="originalScheme">Celeste Custom</property>
   </metaInfo>
   <colors>
@@ -777,9 +777,7 @@
       <value />
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
-      <value>
-        <option name="BACKGROUND" value="eee8d5" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
@@ -1870,10 +1868,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="SMARTY_BRACKETS">
+      <value />
+    </option>
     <option name="SMARTY_IDENTIFIER">
-      <value>
-        <option name="BACKGROUND" value="eee8d5" />
-      </value>
+      <value />
     </option>
     <option name="SQL_COLUMN">
       <value>
