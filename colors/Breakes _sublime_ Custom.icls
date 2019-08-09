@@ -3,7 +3,7 @@
     <property name="created">2019-08-05T17:59:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-08-08T11:49:24</property>
+    <property name="modified">2019-08-09T10:40:15</property>
     <property name="originalScheme">Celeste Custom</property>
   </metaInfo>
   <colors>
@@ -143,7 +143,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="eee8d5" />
+        <option name="BACKGROUND" value="eebdc0" />
       </value>
     </option>
     <option name="BUILDOUT.KEY">
@@ -927,8 +927,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fdf6e3" />
-        <option name="BACKGROUND" value="1f70a6" />
+        <option name="BACKGROUND" value="b4f9c4" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
