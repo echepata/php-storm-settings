@@ -3,7 +3,7 @@
     <property name="created">2019-08-05T17:59:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-08-09T12:24:03</property>
+    <property name="modified">2019-08-12T12:11:29</property>
     <property name="originalScheme">Celeste Custom</property>
   </metaInfo>
   <colors>
@@ -686,14 +686,14 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="60b4b4" />
+        <option name="FOREGROUND" value="47a4a3" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="6699cc" />
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -714,11 +714,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="0" />
-      </value>
-    </option>
     <option name="DEFAULT_METADATA">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -726,7 +721,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="f9ae57" />
+        <option name="FOREGROUND" value="c111" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -737,7 +732,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="c58a43" />
+        <option name="FOREGROUND" value="47a4a3" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -766,12 +761,12 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="6699cc" />
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="5b7a5b" />
+        <option name="FOREGROUND" value="c111" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -1554,9 +1549,9 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="PHP_INSTANCE_FIELD">
+    <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="b78040" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
