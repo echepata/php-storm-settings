@@ -3,7 +3,7 @@
     <property name="created">2019-08-05T17:59:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-08-12T13:23:36</property>
+    <property name="modified">2019-08-12T16:27:46</property>
     <property name="originalScheme">Celeste Custom</property>
   </metaInfo>
   <colors>
@@ -716,7 +716,6 @@
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="289c1" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -761,7 +760,6 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="289c1" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
