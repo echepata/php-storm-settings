@@ -44,16 +44,17 @@
   <ScssCodeStyleSettings>
     <option name="VALUE_ALIGNMENT" value="1" />
   </ScssCodeStyleSettings>
-  <SqlCodeStyleSettings version="0">
-    <option name="myVersion" value="0" />
+  <SqlCodeStyleSettings version="2">
     <option name="ALIAS_CASE" value="4" />
     <option name="TYPE_CASE" value="0" />
     <option name="QUOTED_IDENTIFIER_CASE" value="1" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_TRUE_INDENT" value="false" />
-    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="SUBQUERY_OPENING" value="3" />
+    <option name="SUBQUERY_CONTENT" value="4" />
+    <option name="SUBQUERY_CLOSING" value="4" />
     <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
     <option name="INSERT_EL_COMMA" value="2" />
     <option name="SET_EL_WRAP" value="0" />
@@ -71,9 +72,7 @@
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
-    <option name="TABLE_ALTER_INSTRUCTION_ALIGN" value="false" />
     <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="POST_OPT_ALIGN" value="false" />
     <option name="ROUTINE_ARG_WRAP" value="1" />
     <option name="ROUTINE_ARG_COMMA" value="2" />
     <option name="ROUTINE_ARG_ALIGN_TYPES" value="true" />
