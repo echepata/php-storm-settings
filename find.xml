@@ -18,5 +18,6 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*service*</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
