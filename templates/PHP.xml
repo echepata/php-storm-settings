@@ -119,6 +119,7 @@
     <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
+      <option name="PHP Interface Member" value="true" />
     </context>
   </template>
   <template name="do" value="do {&#10;    $END$&#10;} while ($CONDITION$);" description="do-while construct" toReformat="true" toShortenFQNames="true">
