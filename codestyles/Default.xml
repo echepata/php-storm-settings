@@ -6,6 +6,9 @@
   <JSCodeStyleSettings version="0">
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
   </JSCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+  </PHPCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
