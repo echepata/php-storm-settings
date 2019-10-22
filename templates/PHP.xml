@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="die" value="die('&lt;/br&gt;Breakpoint on file: &quot;'.__FILE__.'&quot; line: '.__LINE__);" description="'die' statement" toReformat="false" toShortenFQNames="true">
+  <template name="die" value="die('&lt;/br&gt;Breakpoint on file: &quot;'.__FILE__.':'.__LINE__);" description="'die' statement" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
