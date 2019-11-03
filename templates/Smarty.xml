@@ -73,4 +73,19 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="s" value="{s name=&quot;$NAME$&quot; namespace=&quot;$NAMESPACE$&quot;}$DEFAULT${/s}" description="Creates a snippet construct" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAMESPACE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="link" value="{url controller=$CONTROLLER$ action=$ACTION$}" description="Creates a link construct" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTROLLER" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
