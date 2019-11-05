@@ -14,7 +14,7 @@
     <mask>*.php</mask>
     <mask>*service*</mask>
     <mask>*.sql</mask>
-    <mask>*.xml</mask>
     <mask>*.tpl</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
