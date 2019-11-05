@@ -13,8 +13,9 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*service*</mask>
-    <mask>*.sql</mask>
     <mask>*.tpl</mask>
     <mask>*.xml</mask>
+    <mask>*.sql</mask>
+    <mask>config*</mask>
   </component>
 </application>
