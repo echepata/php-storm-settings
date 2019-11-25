@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Not PHP tests" />
-    <option name="FILE_MASK" value="**" />
+    <option name="FILE_MASK" value="*twig*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,5 +24,6 @@
     <mask>config*</mask>
     <mask>*login*</mask>
     <mask>**</mask>
+    <mask>*twig*</mask>
   </component>
 </application>
