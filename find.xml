@@ -17,6 +17,8 @@
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>config*</mask>
-    <mask>*service*.xml</mask>
+    <mask>*login*</mask>
+    <mask>**</mask>
+    <mask>*twig*</mask>
   </component>
 </application>
