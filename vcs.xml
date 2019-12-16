@@ -150,6 +150,10 @@
           <option name="url" value="https://github.com/rchung95/PokedexVueJs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DChuchin/vue-spa-tutorial.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Diego\Documents\PhpStormProjects" />
