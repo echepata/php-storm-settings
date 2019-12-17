@@ -20,6 +20,7 @@
     <mask>*login*</mask>
     <mask>**</mask>
     <mask>*twig*</mask>
-    <mask>*.less</mask>
+    <mask>*test*</mask>
+    <mask>*config*</mask>
   </component>
 </application>
