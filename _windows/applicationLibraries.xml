@@ -30,5 +30,27 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="mapsjs-core" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.api.here.com_v3_3.1_mapsjs-core.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.api.here.com_v3_3.1_mapsjs-core.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="mapsjs-service" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.api.here.com_v3_3.1_mapsjs-service.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.api.here.com_v3_3.1_mapsjs-service.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
