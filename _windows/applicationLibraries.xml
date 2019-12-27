@@ -41,6 +41,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="mapsjs-mapevents" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.api.here.com_v3_3.1_mapsjs-mapevents.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.api.here.com_v3_3.1_mapsjs-mapevents.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="mapsjs-service" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -49,6 +60,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.api.here.com_v3_3.1_mapsjs-service.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="mapsjs-ui" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.api.here.com_v3_3.1_mapsjs-ui.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.api.here.com_v3_3.1_mapsjs-ui.js" />
       </CLASSES>
       <SOURCES />
     </library>
