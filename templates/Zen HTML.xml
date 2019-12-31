@@ -13,4 +13,11 @@
       <option name="JSX_HTML" value="true" />
     </context>
   </template>
+  <template name="todo" value="&lt;!-- ToDo: $TODO$ --&gt;" description="Add a ToDo comment" toReformat="true" toShortenFQNames="true">
+    <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
