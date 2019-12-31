@@ -36,7 +36,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="include" value="[{include file=&quot;$IDENT$&quot;}]" description="Creates an include construct" toReformat="false" toShortenFQNames="true">
+  <template name="include" value="{include file=&quot;$IDENT$&quot;}" description="Creates an include construct" toReformat="false" toShortenFQNames="true">
     <variable name="IDENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
