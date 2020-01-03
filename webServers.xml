@@ -4,6 +4,9 @@
       <webServer id="d5bafeb6-3d3b-4640-824e-03f3353e0b19" name="SixthSenseXampp" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="cb0cb628-7ef1-4a16-92c1-5065ec502f6b" name="SixthSenseBuild" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\LAMPProjects\sixth-sense-agency\htdocs" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
