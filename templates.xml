@@ -4,10 +4,6 @@
       <list>
         <TemplateKey>
           <option name="groupName" value="PHP" />
-          <option name="key" value="fore" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="PHP" />
           <option name="key" value="forek" />
         </TemplateKey>
         <TemplateKey>
