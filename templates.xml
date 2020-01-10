@@ -3,6 +3,14 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
+          <option name="groupName" value="PHP" />
+          <option name="key" value="fore" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="PHP" />
+          <option name="key" value="forek" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_if" />
         </TemplateKey>
