@@ -1,32 +1,17 @@
-<templateSet group="html/xml">
-  <template name="T" value="&lt;$TAG$&gt;&#10;    $SELECTION$&#10;&lt;/$TAGNAME$&gt;&#10;" description="Surround with &lt;tag&gt;&lt;/tag&gt;" toReformat="true" toShortenFQNames="true">
-    <variable name="TAG" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="TAGNAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
-    <context>
-      <option name="HTML_TEXT" value="true" />
-    </context>
-  </template>
-  <template name="T2" value="&lt;$TAG$&gt;&#10;    $SELECTION$&#10;&lt;/$TAGNAME$&gt;" description="Surround with &lt;tag&gt;&lt;/tag&gt; in HTML/JSP" toReformat="false" toShortenFQNames="false">
-    <variable name="TAG" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="TAGNAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
-    <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
-      <option name="JSP" value="true" />
-    </context>
-  </template>
-  <template name="SMARTY" value="[{$TAG$ $PARAM$}]&#10;    $SELECTION$&#10;[{/$TAGNAME$}]&#10;" description="Surround with [{tag}] [{/tag}]" toReformat="true" toShortenFQNames="true">
-    <variable name="TAG" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="TAGNAME" expression="firstWord(TAG)" defaultValue="" alwaysStopAt="false" />
+<templateSet group="HTML/XML">
+  <template name="fore" value="&lt;?php foreach ($ITERABLE$ as $VAR_VALUE$) { ?&gt;&#10;    $END$&#10;&lt;?php } ?&gt;" description="Foreach construct for HTML in PHP" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="phpSuggestVariableName()" defaultValue="&quot;$item&quot;" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="assign" value="[{assign var=&quot;$PARAM1$&quot; value=$PARAM2$}]" description="Creates ASSIGN construct" toReformat="false" toShortenFQNames="true">
-    <variable name="PARAM1" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAM2" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="forek" value="&lt;?php foreach ($ITERABLE$ as $VAR_KEY$ =&gt; $VAR_VALUE$) { ?&gt;&#10;    $END$&#10;&lt;?php } ?&gt;" description="Foreach construct for HTML in PHP, with index" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_KEY" expression="phpSuggestVariableName()" defaultValue="&quot;$index&quot;" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="phpSuggestVariableName()" defaultValue="&quot;$item&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
   </template>
 </templateSet>
