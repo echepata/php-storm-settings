@@ -3,7 +3,7 @@
     <property name="created">2019-08-05T17:59:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-09-02T18:54:32</property>
+    <property name="modified">2020-01-16T10:38:40</property>
     <property name="originalScheme">Celeste Custom</property>
   </metaInfo>
   <colors>
@@ -609,7 +609,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="999999" />
+        <option name="FOREGROUND" value="b0b0b0" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -641,7 +641,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="adadad" />
+        <option name="FOREGROUND" value="919191" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -709,7 +709,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="999999" />
+        <option name="FOREGROUND" value="b0b0b0" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
