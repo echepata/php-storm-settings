@@ -158,9 +158,13 @@
           <option name="url" value="git@bitbucket.org:fleetcutter/fleetcutter-telematics-rest-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:fleetcutter/fleetcutter-remote-access-telematic-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Diego\Documents\PhpStormProjects" />
+    <option name="cloneParentDir" value="C:\Users\Diego.Echeverri\Documents\PhpStormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
