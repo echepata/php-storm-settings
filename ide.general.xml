@@ -2,6 +2,7 @@
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
+    <option name="defaultProjectDirectory" value="C:\Users\Diego.Echeverri\Documents\PhpStormProjects" />
     <option name="inactiveTimeout" value="30" />
     <option name="processCloseConfirmation" value="DISCONNECT" />
     <option name="reopenLastProject" value="false" />
