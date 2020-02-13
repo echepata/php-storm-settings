@@ -1,0 +1,8 @@
+<templateSet group="Twig">
+  <template name="include" value="{% include '$TEMPLATE$'$END$ %}" description="include 'template'" toReformat="true" toShortenFQNames="false">
+    <variable name="TEMPLATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
