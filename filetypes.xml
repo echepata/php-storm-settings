@@ -58,9 +58,9 @@
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="nxsHeaderTop" type="Twig" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="echeverri-0fbc045cd3974fb4f1dc601c953271b992" type="XML" />
