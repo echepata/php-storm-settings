@@ -46,6 +46,7 @@
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="echeverri-0fff7e5fecf07de07116e064b7712eb38d" type="PLAIN_TEXT" />
       <mapping ext="source" type="PLAIN_TEXT" />
+      <mapping ext="gql" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
