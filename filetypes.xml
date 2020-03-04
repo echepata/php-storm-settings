@@ -46,7 +46,6 @@
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="echeverri-0fff7e5fecf07de07116e064b7712eb38d" type="PLAIN_TEXT" />
       <mapping ext="source" type="PLAIN_TEXT" />
-      <mapping ext="gql" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
@@ -56,6 +55,7 @@
       <mapping ext="txt}" type="PLAIN_TEXT" />
       <mapping ext="sh___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
+      <mapping ext="gql" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
