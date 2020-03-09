@@ -14,4 +14,10 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="if" value="&lt;?php if($CONDITION$) { ?&gt;&#10;&#10;&lt;?php } else { ?&gt;&#10;&#10;&lt;?php } ?&gt;" description="PHP if construct" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
