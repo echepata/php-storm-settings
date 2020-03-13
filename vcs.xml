@@ -178,6 +178,10 @@
           <option name="url" value="git@bitbucket.org:fleetcutter/bookings-library.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:fleetcutter/components.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Diego Goget\GoGet" />
