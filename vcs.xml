@@ -166,9 +166,21 @@
           <option name="url" value="git@bitbucket.org:fleetcutter/vehicle-api-client.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://diego_fleetcutter@bitbucket.org/fleetcutter/bookings-library.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="diego_fleetcutter" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:fleetcutter/bookings-library.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Diego.Echeverri\Documents\PhpStormProjects" />
+    <option name="cloneParentDir" value="C:\Users\Diego Goget\GoGet" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
