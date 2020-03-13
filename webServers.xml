@@ -7,6 +7,9 @@
       <webServer id="cb0cb628-7ef1-4a16-92c1-5065ec502f6b" name="SixthSenseBuild" url="http://localhost">
         <fileTransfer port="0" mountedRoot="C:\LAMPProjects\sixth-sense-agency\htdocs" accessType="MOUNT" />
       </webServer>
+      <webServer id="f51d5a69-b3e8-40a4-a945-20b912b4d6be" name="Goget Local" url="http://www.goget.com.au.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
