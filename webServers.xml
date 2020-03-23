@@ -10,6 +10,9 @@
       <webServer id="f51d5a69-b3e8-40a4-a945-20b912b4d6be" name="Goget Local" url="http://www.goget.com.au.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="4b939e44-9c02-4dd8-8e4e-d592b0d54b01" name="Bookings Rest API" url="http://api.goget.com.au.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
