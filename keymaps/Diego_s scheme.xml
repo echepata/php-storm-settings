@@ -17,6 +17,14 @@
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
+  <action id="EditorNextWord" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorPreviousWord" />
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollToCenter" />
   <action id="EditorScrollUp" />
