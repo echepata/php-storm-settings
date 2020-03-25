@@ -5,14 +5,14 @@
         <option name="BACKWARD">
           <CaretStopPolicy>
             <option name="WORD">
-              <CaretStop start="true" />
+              <CaretStop start="true" end="true" />
             </option>
           </CaretStopPolicy>
         </option>
         <option name="FORWARD">
           <CaretStopPolicy>
             <option name="WORD">
-              <CaretStop start="true" />
+              <CaretStop start="true" end="true" />
             </option>
           </CaretStopPolicy>
         </option>
