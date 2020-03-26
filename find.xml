@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +16,6 @@
     <mask>*service*</mask>
     <mask>*.tpl</mask>
     <mask>*.xml</mask>
-    <mask>*.sql</mask>
     <mask>config*</mask>
     <mask>*login*</mask>
     <mask>**</mask>
@@ -24,5 +24,6 @@
     <mask>*twig</mask>
     <mask>I*</mask>
     <mask>*config*</mask>
+    <mask>*.sql</mask>
   </component>
 </application>

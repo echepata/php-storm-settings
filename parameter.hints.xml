@@ -3,5 +3,6 @@
     <blacklists>
       <blacklist language="PHP" />
     </blacklists>
+    <option id="sql.show.column.names.in.insert.values" value="true" />
   </component>
 </application>
