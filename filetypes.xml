@@ -41,6 +41,7 @@
       <mapping pattern="creator_uid" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.copy" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="sh___jb_old___" type="PLAIN_TEXT" />
