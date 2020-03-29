@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="6" />
+    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
   </component>
 </application>
