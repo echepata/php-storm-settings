@@ -21,7 +21,6 @@
       <mapping pattern=".htaccess2" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
       <mapping pattern="main--en-US--currencies" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="callstack" type="PLAIN_TEXT" />
       <mapping pattern="0c506b6b1b08809d9d5d19aadb71da36" type="PLAIN_TEXT" />
       <mapping pattern="nxs_navision_scheduledreceiptscalculator" type="PLAIN_TEXT" />
@@ -42,6 +41,7 @@
       <mapping pattern="creator_uid" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.copy" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
