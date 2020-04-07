@@ -10,6 +10,7 @@
   <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,dl,ul,dd" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
   <option name="HTML_KEEP_WHITESPACES_INSIDE" value="" />
+  <option name="SOFT_MARGINS" value="80" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="VALUE_ALIGNMENT" value="1" />
@@ -557,6 +558,9 @@
     <indentOptions>
       <option name="SMART_TABS" value="true" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Markdown">
+    <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="MySQL">
     <indentOptions>
