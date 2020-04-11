@@ -15,7 +15,6 @@
     <mask>*service*</mask>
     <mask>*.tpl</mask>
     <mask>*.xml</mask>
-    <mask>*.sql</mask>
     <mask>config*</mask>
     <mask>*login*</mask>
     <mask>**</mask>
@@ -24,5 +23,9 @@
     <mask>*twig</mask>
     <mask>I*</mask>
     <mask>*config*</mask>
+    <mask>*.sql</mask>
+    <mask>*readme*</mask>
+    <mask>*lang*</mask>
+    <mask>!*.sql</mask>
   </component>
 </application>

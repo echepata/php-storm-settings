@@ -20,10 +20,6 @@
   <action id="EditorScrollDown" />
   <action id="EditorScrollToCenter" />
   <action id="EditorScrollUp" />
-  <action id="ExtractMethod">
-    <keyboard-shortcut first-keystroke="ctrl alt m" />
-    <keyboard-shortcut first-keystroke="alt m" />
-  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -84,6 +80,7 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="ScrollTreeToCenter" />
+  <action id="ServiceView.ShowServices" />
   <action id="SurroundWith" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
