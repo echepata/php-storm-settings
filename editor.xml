@@ -28,6 +28,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
