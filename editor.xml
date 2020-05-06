@@ -6,9 +6,6 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Consolas" />
-  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
