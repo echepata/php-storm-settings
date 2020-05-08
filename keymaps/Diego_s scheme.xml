@@ -64,9 +64,11 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="NextTab" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="PreviousTab" />
   <action id="QuickImplementations" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
