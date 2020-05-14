@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -21,11 +23,11 @@
     <mask>*test*</mask>
     <mask>*twig</mask>
     <mask>I*</mask>
-    <mask>*config*</mask>
     <mask>*.sql</mask>
     <mask>*readme*</mask>
     <mask>*lang*</mask>
     <mask>!*.sql</mask>
     <mask>*.php</mask>
+    <mask>*config*</mask>
   </component>
 </application>
