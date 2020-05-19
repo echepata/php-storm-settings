@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,11 +24,13 @@
     <mask>*test*</mask>
     <mask>*twig</mask>
     <mask>I*</mask>
-    <mask>*.sql</mask>
     <mask>*readme*</mask>
     <mask>*lang*</mask>
     <mask>!*.sql</mask>
     <mask>*.php</mask>
     <mask>*config*</mask>
+    <mask>*UP*</mask>
+    <mask>*UP.sql</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
