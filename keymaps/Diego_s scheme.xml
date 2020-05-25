@@ -35,7 +35,7 @@
   <action id="Git.Merge">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="Git.Rebase">
+  <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="Git.Reset">
