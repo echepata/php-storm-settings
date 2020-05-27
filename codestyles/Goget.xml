@@ -245,6 +245,7 @@
     <option name="SUBQUERY_CONTENT" value="4" />
     <option name="SUBQUERY_CLOSING" value="4" />
     <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="INSERT_EL_WRAP" value="0" />
     <option name="INSERT_EL_COMMA" value="2" />
     <option name="SET_EL_WRAP" value="0" />
     <option name="SET_EL_COMMA" value="0" />
@@ -254,10 +255,11 @@
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="0" />
     <option name="FROM_EL_COMMA" value="2" />
     <option name="FROM_PLACE_ON" value="10" />
-    <option name="WHERE_EL_WRAP" value="0" />
-    <option name="WHERE_EL_BOUND" value="2" />
+    <option name="WHERE_EL_LINE" value="1" />
+    <option name="ORDER_EL_LINE" value="1" />
     <option name="ORDER_EL_WRAP" value="1" />
     <option name="ORDER_EL_COMMA" value="2" />
+    <option name="ORDER_ALIGN_ASC_DESC" value="true" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
@@ -265,6 +267,8 @@
     <option name="ROUTINE_ARG_WRAP" value="1" />
     <option name="ROUTINE_ARG_COMMA" value="2" />
     <option name="ROUTINE_ARG_ALIGN_TYPES" value="true" />
+    <option name="IMP_COMMON_KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="IMP_IF_THEN_WRAP_ELSE" value="false" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="CORTEGE_SPACE_WITHIN_PARENTHESES" value="true" />
     <option name="EXPR_SPACE_WITHIN_PARENTHESES" value="true" />
@@ -570,6 +574,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="MySQL">
     <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
