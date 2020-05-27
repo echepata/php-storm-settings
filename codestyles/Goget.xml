@@ -190,6 +190,7 @@
   </JSCodeStyleSettings>
   <JSON>
     <option name="PROPERTY_ALIGNMENT" value="2" />
+    <option name="ARRAY_WRAPPING" value="5" />
   </JSON>
   <MSSQLCodeStyleSettings version="2">
     <option name="ALIAS_CASE" value="4" />
@@ -551,6 +552,11 @@
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
