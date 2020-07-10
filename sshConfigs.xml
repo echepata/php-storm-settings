@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="10.128.26.75" id="5b42a033-5f0a-417a-ad51-2f7f17032e9c" port="22" nameFormat="DESCRIPTIVE" username="fcdev" />
+      <sshConfig authType="PASSWORD" host="10.128.26.75" id="5b42a033-5f0a-417a-ad51-2f7f17032e9c" port="22" customName="GOGET BETA VPN" nameFormat="CUSTOM" username="fcdev" />
     </configs>
   </component>
 </application>
