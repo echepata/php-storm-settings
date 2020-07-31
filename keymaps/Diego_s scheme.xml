@@ -86,6 +86,10 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="Resume" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="ScrollTreeToCenter" />
   <action id="ServiceView.ShowServices" />
   <action id="SurroundWith" />
