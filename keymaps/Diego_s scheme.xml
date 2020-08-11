@@ -3,10 +3,6 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
-  <action id="Console.Execute.Multiline">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-    <keyboard-shortcut first-keystroke="f9" />
-  </action>
   <action id="Console.TableResult.NavigateForeignAction">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
@@ -84,11 +80,6 @@
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
-  </action>
-  <action id="Resume" />
-  <action id="RunClass">
-    <keyboard-shortcut first-keystroke="shift ctrl f10" />
-    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="ScrollTreeToCenter" />
   <action id="ServiceView.ShowServices" />
