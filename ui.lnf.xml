@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="6" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="showTreeIndentGuides" value="true" />
   </component>
 </application>
