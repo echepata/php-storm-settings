@@ -26,4 +26,10 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="inc" value="&lt;?php include $FILE$; ?&gt;" description="php include line" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
