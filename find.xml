@@ -33,8 +33,8 @@
     <mask>*UP.sql</mask>
     <mask>cityhop*</mask>
     <mask>*.sql</mask>
-    <mask>*config*</mask>
     <mask>*view.php</mask>
     <mask>*.json</mask>
+    <mask>*config*</mask>
   </component>
 </application>
