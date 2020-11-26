@@ -9,4 +9,10 @@
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="lang" value="{{ vm.lang('$LANG_KEY$') }}" description="Create a twig lang() call" toReformat="false" toShortenFQNames="true">
+    <variable name="LANG_KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
