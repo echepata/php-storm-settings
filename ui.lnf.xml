@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="6" />
+    <option name="MAX_LOOKUP_WIDTH2" value="961" />
     <option name="showTreeIndentGuides" value="true" />
   </component>
 </application>
