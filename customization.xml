@@ -18,7 +18,7 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Run" is_action="true" action_type="1" position="1">
+    <group value="RunClass" is_group="true" action_type="1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="Toolbar Run Actions" />
