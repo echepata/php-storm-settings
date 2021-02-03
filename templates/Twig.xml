@@ -23,4 +23,10 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="echo" value="{{ $EXPRESSION$ }}" description="TWIG print to the page" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>
