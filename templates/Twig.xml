@@ -17,8 +17,8 @@
   </template>
   <template name="!!" value="{##&#10; # @author    $USER$&#10; # @since     $DATE$&#10; # @copyright $YEAR$ Carshare Australia Pty Ltd.&#10; #}" description="Twig copyright" toReformat="false" toShortenFQNames="true">
     <variable name="USER" expression="user()" defaultValue="Diego" alwaysStopAt="true" />
-    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <variable name="YEAR" expression="substr(date(), 6)" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date(&quot;Y-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="YEAR" expression="date(&quot;y&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Twig" value="true" />
     </context>
