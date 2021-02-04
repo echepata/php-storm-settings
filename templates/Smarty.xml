@@ -24,12 +24,6 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="lang" value="[{oxmultilang ident=&quot;$IDENT$&quot;}]" description="Creates a oxmultilang construct" toReformat="false" toShortenFQNames="true">
-    <variable name="IDENT" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
   <template name="block" value="{block name=&quot;$IDENT$&quot;}&#10;&#10;{/block}" description="Creates a block construct" toReformat="false" toShortenFQNames="true">
     <variable name="IDENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
