@@ -1,4 +1,7 @@
 <application>
+  <component name="PhpThisOrSelfImportFilteringUsageSetting">
+    <option name="SHOW_THIS_OR_SELF_REFERENCES" value="true" />
+  </component>
   <component name="ShowUsagesSettings">
     <option name="IS_EXPANDED" value="true" />
     <option name="IS_FILTER_DUPLICATED_LINE" value="false" />
@@ -6,7 +9,6 @@
   </component>
   <component name="UsageViewSettings">
     <option name="IS_EXPANDED" value="true" />
-    <option name="IS_FILTER_DUPLICATED_LINE" value="false" />
     <option name="GROUP_BY_MODULE" value="false" />
     <option name="IS_PREVIEW_USAGES" value="false" />
     <option name="IS_REPLACE_PREVIEW_USAGES" value="false" />
