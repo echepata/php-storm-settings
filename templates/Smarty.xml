@@ -5,12 +5,6 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="var" value="{$$$VARIABLE$|@var_dump}" description="Creates a var_dump construct" toReformat="false" toShortenFQNames="true">
-    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
   <template name="oxprice" value="[{oxprice price=$$$PRICE$ currency=$currency}]" description="Creates a oxprice construct" toReformat="false" toShortenFQNames="true">
     <variable name="PRICE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

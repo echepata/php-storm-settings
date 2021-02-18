@@ -29,4 +29,10 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="var" value="{{ $VAR$|var_dump }}" description="TWIG var_dump" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>
