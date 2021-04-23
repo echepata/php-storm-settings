@@ -51,6 +51,7 @@
       <mapping ext="echeverri-0fff7e5fecf07de07116e064b7712eb38d" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="log&#10;" type="PLAIN_TEXT" />
