@@ -56,6 +56,8 @@
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="log&#10;" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="beta" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="txt}" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="gql" type="PLAIN_TEXT" />
