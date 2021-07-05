@@ -32,4 +32,10 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="include" value="&lt;?php include('$FILE_NAME$'); ?&gt;" description="PHP HTML include construct" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
