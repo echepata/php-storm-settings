@@ -367,11 +367,6 @@
         <option name="FOREGROUND" value="754200" />
       </value>
     </option>
-    <option name="CSS.COMMENT">
-      <value>
-        <option name="FOREGROUND" value="9933cc" />
-      </value>
-    </option>
     <option name="CSS.FUNCTION">
       <value>
         <option name="FOREGROUND" value="c83730" />
@@ -531,7 +526,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="96f2ff" />
+        <option name="FOREGROUND" value="9103" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -591,6 +586,12 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="597dff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -601,6 +602,13 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="78b6d7" />
+        <option name="EFFECT_COLOR" value="78b6d7" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="ffa9a8" />
@@ -608,8 +616,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="ffa9a8" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -632,7 +639,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="ffd582" />
+        <option name="FOREGROUND" value="5959ff" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -645,11 +652,23 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ffa8bd" />
+      </value>
+    </option>
     <option name="DEFAULT_PARENTHS">
       <value>
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ffa9a8" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="cc7832" />
@@ -667,6 +686,9 @@
         <option name="FOREGROUND" value="4dbd4d" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value />
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value />
@@ -965,31 +987,26 @@
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="3266a5" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="7dcc76" />
+        <option name="FOREGROUND" value="3266a5" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HTML_COMMENT">
+    <option name="HTML_CODE">
       <value>
-        <option name="FOREGROUND" value="9933cc" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="1a1a1a" />
       </value>
-    </option>
-    <option name="HTML_ENTITY_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="3387cc" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="HTML_TAG">
-      <value />
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="ffbe59" />
+        <option name="FOREGROUND" value="73aeff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1406,6 +1423,12 @@
     <option name="OC_FORMAT_TOKEN">
       <value>
         <option name="FOREGROUND" value="66cc33" />
+      </value>
+    </option>
+    <option name="PHP_ALIAS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="ccab68" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_BAD_CHARACTER">
