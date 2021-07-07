@@ -683,7 +683,7 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="4dbd4d" />
+        <option name="FOREGROUND" value="89dd89" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -988,13 +988,13 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="3266a5" />
+        <option name="FOREGROUND" value="7395a4" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="3266a5" />
+        <option name="FOREGROUND" value="7395a4" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1484,11 +1484,6 @@
     <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
-    </option>
-    <option name="PHP_STRING">
-      <value>
-        <option name="FOREGROUND" value="4bcc3e" />
-      </value>
     </option>
     <option name="PHP_TAG">
       <value>
