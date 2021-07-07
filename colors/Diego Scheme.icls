@@ -18,6 +18,7 @@
     <option name="INDENT_GUIDE" value="404040" />
     <option name="LINE_NUMBERS_COLOR" value="ffffff" />
     <option name="MODIFIED_LINES_COLOR" value="feff39" />
+    <option name="READONLY_BACKGROUND" value="262600" />
     <option name="RIGHT_MARGIN_COLOR" value="5c5c5c" />
     <option name="SELECTED_INDENT_GUIDE" value="404040" />
     <option name="SELECTION_BACKGROUND" value="644d6e" />
@@ -2123,8 +2124,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="5b5b5b" />
-        <option name="BACKGROUND" value="1f1f1f" />
+        <option name="FOREGROUND" value="c3c3c3" />
+        <option name="BACKGROUND" value="262626" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
