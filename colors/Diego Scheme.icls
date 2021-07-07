@@ -542,10 +542,14 @@
       </value>
     </option>
     <option name="DEFAULT_BRACES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
     </option>
     <option name="DEFAULT_BRACKETS">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
@@ -583,7 +587,9 @@
       </value>
     </option>
     <option name="DEFAULT_DOT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
@@ -634,8 +640,15 @@
         <option name="FOREGROUND" value="82d3d4" />
       </value>
     </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
     <option name="DEFAULT_PARENTHS">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
@@ -648,6 +661,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="4dbd4d" />
