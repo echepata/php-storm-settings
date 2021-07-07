@@ -4,7 +4,6 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="feff3e" />
     <option name="ANNOTATIONS_COLOR" value="0" />
@@ -550,7 +549,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ffd582" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -566,7 +565,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="d4fc00" />
+        <option name="FOREGROUND" value="ffee00" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -579,7 +578,7 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="92c485" />
+        <option name="FOREGROUND" value="fff200" />
         <option name="BACKGROUND" value="383838" />
       </value>
     </option>
@@ -603,7 +602,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ffa9a8" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -623,6 +622,11 @@
       <value>
         <option name="FOREGROUND" value="578253" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_METADATA">
+      <value>
+        <option name="FOREGROUND" value="ffd582" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -996,7 +1000,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="333434" />
+        <option name="EFFECT_COLOR" value="565656" />
         <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -1422,7 +1426,7 @@
     </option>
     <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ffd582" />
       </value>
     </option>
     <option name="PHP_KEYWORD">
@@ -2138,7 +2142,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="5b5b5b" />
         <option name="BACKGROUND" value="1f1f1f" />
       </value>
     </option>
@@ -2150,7 +2154,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c7c7ff" />
+        <option name="FOREGROUND" value="cacaca" />
+        <option name="BACKGROUND" value="7a7a00" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="ff" />
       </value>
