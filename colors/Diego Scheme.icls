@@ -1393,7 +1393,7 @@
     </option>
     <option name="PHP_ALIAS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="ccab68" />
+        <option name="FOREGROUND" value="ffd582" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1443,6 +1443,11 @@
       </value>
     </option>
     <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_PRIMITIVE_TYPE_HINT">
+      <value>
+        <option name="FOREGROUND" value="ffd582" />
+      </value>
+    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>
