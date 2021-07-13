@@ -12,6 +12,8 @@
     <option name="CARET_ROW_COLOR" value="252525" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="DELETED_LINES_COLOR" value="d0d0d0" />
+    <option name="DOCUMENTATION_COLOR" value="232932" />
+    <option name="ERROR_HINT" value="232932" />
     <option name="FILESTATUS_MODIFIED" value="ff6968" />
     <option name="FILESTATUS_modifiedOutside" value="141acc" />
     <option name="GUTTER_BACKGROUND" value="2c2c2c" />
@@ -19,6 +21,7 @@
     <option name="LINE_NUMBERS_COLOR" value="ffffff" />
     <option name="MODIFIED_LINES_COLOR" value="feff39" />
     <option name="READONLY_BACKGROUND" value="262600" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="56595d" />
     <option name="RIGHT_MARGIN_COLOR" value="5c5c5c" />
     <option name="SELECTED_INDENT_GUIDE" value="404040" />
     <option name="SELECTION_BACKGROUND" value="644d6e" />
@@ -711,6 +714,13 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DELETED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c3c3c3" />
+        <option name="BACKGROUND" value="c14040" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="c0c0c0" />
@@ -1051,6 +1061,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="343434" />
+      </value>
+    </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="BACKGROUND" value="9b1717" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -2206,7 +2222,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="373410" />
+        <option name="BACKGROUND" value="c14040" />
         <option name="EFFECT_COLOR" value="ffffff" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="1" />
