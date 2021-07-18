@@ -5,12 +5,6 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="var" value="{$$$VARIABLE$|@var_dump}" description="Creates a var_dump construct" toReformat="false" toShortenFQNames="true">
-    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
   <template name="oxprice" value="[{oxprice price=$$$PRICE$ currency=$currency}]" description="Creates a oxprice construct" toReformat="false" toShortenFQNames="true">
     <variable name="PRICE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -20,12 +14,6 @@
   <template name="assign" value="[{assign var=&quot;$NAME$&quot; value=$VALUE$}]" description="Creates an assign construct" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
-  <template name="lang" value="[{oxmultilang ident=&quot;$IDENT$&quot;}]" description="Creates a oxmultilang construct" toReformat="false" toShortenFQNames="true">
-    <variable name="IDENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>

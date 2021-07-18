@@ -20,4 +20,10 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="for" value="&lt;?php for ($$i = 0; $$i &lt; $LIMIT$; $$i++) { ?&gt;&#10;    $END$&#10;&lt;?php } ?&gt;" description="For construct for HTML in PHP" toReformat="true" toShortenFQNames="true">
+    <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>

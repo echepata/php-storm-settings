@@ -5,14 +5,34 @@
       <option name="Twig" value="true" />
     </context>
   </template>
-  <template name="if" value="{% if $CONDITION$ %}&#10;    $END$&#10;{% else %}&#10;{% endif %}" description="if...endif" toReformat="true" toShortenFQNames="false">
+  <template name="if" value="{% if $CONDITION$ %}&#10;    $END$&#10;{% else %}&#10;{% endif %}" description="TWIG if...endif" toReformat="true" toShortenFQNames="false">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="lang" value="{{ vm.lang('$LANG_KEY$') }}" description="Create a twig lang() call" toReformat="false" toShortenFQNames="true">
+  <template name="lang" value="{{ vm.lang('$LANG_KEY$') }}" description="TWIG lang() call" toReformat="false" toShortenFQNames="true">
     <variable name="LANG_KEY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="!!" value="{##&#10; # @author    $USER$&#10; # @since     $DATE$&#10; # @copyright $YEAR$ Carshare Australia Pty Ltd.&#10; #}" description="Twig copyright" toReformat="false" toShortenFQNames="true">
+    <variable name="USER" expression="user()" defaultValue="Diego" alwaysStopAt="true" />
+    <variable name="DATE" expression="date(&quot;Y-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="YEAR" expression="date(&quot;y&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="echo" value="{{ $EXPRESSION$ }}" description="TWIG print to the page" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="var" value="{{ $VAR$|var_dump }}" description="TWIG var_dump" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
     </context>
   </template>
 </templateSet>
