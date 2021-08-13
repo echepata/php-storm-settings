@@ -28,10 +28,10 @@
       <mapping pattern="nxsshopssl_oxarticle" type="PLAIN_TEXT" />
       <mapping pattern="main--en-US--currencies" type="PLAIN_TEXT" />
       <mapping pattern="callstack" type="PLAIN_TEXT" />
-      <mapping pattern="nxs-docker" type="PLAIN_TEXT" />
+      <mapping pattern=".env.copy" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.copy" type="PLAIN_TEXT" />
+      <mapping pattern="nxs-docker" type="PLAIN_TEXT" />
       <mapping pattern="nxsffrecomm_" type="PLAIN_TEXT" />
       <mapping pattern="arrays" type="PLAIN_TEXT" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
