@@ -81,6 +81,8 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
   <action id="ScrollTreeToCenter" />
   <action id="ServiceView.ShowServices" />
   <action id="SliceBackward">
