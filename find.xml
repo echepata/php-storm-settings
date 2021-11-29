@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*twig*" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -32,8 +33,8 @@
     <mask>*view.php</mask>
     <mask>*.json</mask>
     <mask>*.inc</mask>
-    <mask>*twig*</mask>
     <mask>*config*</mask>
     <mask>*.scss</mask>
+    <mask>*twig*</mask>
   </component>
 </application>
