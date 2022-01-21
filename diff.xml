@@ -82,9 +82,6 @@
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
-      <entry key="VcsFileHistoryView">
-        <PlaceSettings />
-      </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
           <option name="SHOW_INDENT_LINES" value="true" />
