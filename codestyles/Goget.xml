@@ -233,6 +233,7 @@
     <option name="BLANK_LINES_AROUND_FUNCTION" value="2" />
   </JSCodeStyleSettings>
   <JSON>
+    <option name="SPACE_BEFORE_COLON" value="true" />
     <option name="PROPERTY_ALIGNMENT" value="2" />
     <option name="ARRAY_WRAPPING" value="5" />
   </JSON>
@@ -793,7 +794,6 @@
   <codeStyleSettings language="Vue">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
       <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
