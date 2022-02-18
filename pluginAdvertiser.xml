@@ -22,6 +22,26 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="DartCommandLineRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Command Line App" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="DartRemoteDebugConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Remote Debug" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="DartTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Test" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="DartWebdevConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Web" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
