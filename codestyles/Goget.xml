@@ -11,7 +11,7 @@
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="VALUE_ALIGNMENT" value="1" />
   </CssCodeStyleSettings>
-  <DB2CodeStyleSettings version="5">
+  <DB2CodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -53,7 +53,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="5">
+  <DerbyCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -95,7 +95,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="5">
+  <H2CodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -135,7 +135,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </H2CodeStyleSettings>
-  <H2CodeStyleSettings version="5">
+  <H2CodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -175,7 +175,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="5">
+  <HSQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -237,7 +237,7 @@
     <option name="PROPERTY_ALIGNMENT" value="2" />
     <option name="ARRAY_WRAPPING" value="5" />
   </JSON>
-  <MSSQLCodeStyleSettings version="5">
+  <MSSQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -279,7 +279,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="5">
+  <MySQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -323,7 +323,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="5">
+  <OracleCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -377,7 +377,7 @@
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="SPACE_BEFORE_COLON_IN_RETURN_TYPE" value="true" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="5">
+  <PostgresCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -419,7 +419,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="5">
+  <SQLiteCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -462,7 +462,7 @@
   <ScssCodeStyleSettings>
     <option name="VALUE_ALIGNMENT" value="1" />
   </ScssCodeStyleSettings>
-  <SqlCodeStyleSettings version="5">
+  <SqlCodeStyleSettings version="6">
     <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="ALIAS_CASE" value="4" />
     <option name="QUOTED_IDENTIFIER_CASE" value="1" />
@@ -516,7 +516,7 @@
     <option name="WRAP_PARENTHESIZED_EXPRESSION_INSIDE_VALUES" value="0" />
     <option name="NEW_LINE_AFTER_SELECT_2" value="0" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="5">
+  <SybaseCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -704,6 +704,7 @@
             <match>
               <CONST>true</CONST>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
