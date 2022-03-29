@@ -19,12 +19,14 @@
     <option name="GUTTER_BACKGROUND" value="2c2c2c" />
     <option name="INDENT_GUIDE" value="404040" />
     <option name="LINE_NUMBERS_COLOR" value="ffffff" />
+    <option name="LOOKUP_COLOR" value="313131" />
     <option name="MODIFIED_LINES_COLOR" value="feff39" />
     <option name="READONLY_BACKGROUND" value="262600" />
     <option name="RECENT_LOCATIONS_SELECTION" value="56595d" />
     <option name="RIGHT_MARGIN_COLOR" value="5c5c5c" />
     <option name="SELECTED_INDENT_GUIDE" value="404040" />
     <option name="SELECTION_BACKGROUND" value="644d6e" />
+    <option name="TOOLTIP" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="337933" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="403f20" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="402f20" />

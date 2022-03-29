@@ -1,5 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SMART_BACKSPACE" value="2" />
     <option name="REFORMAT_ON_PASTE" value="4" />
   </component>
