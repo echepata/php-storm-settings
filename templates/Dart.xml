@@ -6,4 +6,10 @@
       <option name="DART_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="todo" value="// ToDo: $TODO$" description="Add a ToDo comment" toReformat="true" toShortenFQNames="true">
+    <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
