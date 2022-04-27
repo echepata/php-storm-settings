@@ -12,4 +12,10 @@
       <option name="DART_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="log" value="debugPrint($LOG$);" description="Log to console" toReformat="true" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
