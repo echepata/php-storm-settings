@@ -18,4 +18,9 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="mat" value="import 'package:flutter/material.dart';" description="Include the material design package" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
