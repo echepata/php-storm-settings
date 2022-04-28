@@ -1,0 +1,26 @@
+<templateSet group="Dart">
+  <template name="if" value="if ($COND$) {&#10;  $STATEMENT$;&#10;} else if () {&#10;  ;&#10;} else {&#10;    ;&#10;}" description="Create an if statement" toReformat="true" toShortenFQNames="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STATEMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="// ToDo: $TODO$" description="Add a ToDo comment" toReformat="true" toShortenFQNames="true">
+    <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="log" value="debugPrint($LOG$);" description="Log to console" toReformat="true" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="mat" value="import 'package:flutter/material.dart';" description="Include the material design package" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>

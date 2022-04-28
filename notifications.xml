@@ -4,6 +4,7 @@
     <notification groupId="Browser Connection" />
     <notification groupId="Built-in Server" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" />
     <notification groupId="Vcs Important Messages" />
   </component>
