@@ -59,7 +59,6 @@
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
         <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="READ_ONLY_LOCK" value="false" />
         </PlaceSettings>
@@ -76,9 +75,6 @@
           <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
-      </entry>
-      <entry key="VcsFileHistoryView">
-        <PlaceSettings />
       </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
