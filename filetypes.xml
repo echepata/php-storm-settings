@@ -14,9 +14,9 @@
       <mapping pattern=".htaccess2" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
       <mapping pattern="nxs_translationsimport_csvfile" type="PLAIN_TEXT" />
+      <mapping pattern="changePageTitle" type="PLAIN_TEXT" />
       <mapping pattern="cf4f2b2db6f4978aeefc30f143e84043" type="PLAIN_TEXT" />
       <mapping pattern="nxsengraving_previewimage" type="PLAIN_TEXT" />
-      <mapping pattern="changePageTitle" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_prod" type="PLAIN_TEXT" />
       <mapping pattern="d492b21e36aa16190b97405fe11f08cc" type="PLAIN_TEXT" />
       <mapping pattern="101-DTA-400_AddCatalogueCategories" type="PLAIN_TEXT" />

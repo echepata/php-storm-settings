@@ -202,9 +202,13 @@
           <option name="url" value="git@bitbucket.org:fleetcutter/fleetcutter-bookings-rest-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:fleetcutter/flutter-first-prototype.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Diego\PhpStormProjects" />
+    <option name="cloneParentDir" value="C:\Users\Diego\AndroidStudioProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
