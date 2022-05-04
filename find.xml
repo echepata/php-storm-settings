@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*service*</mask>
+    <mask>*.tpl</mask>
+    <mask>*.xml</mask>
+    <mask>config*</mask>
+    <mask>*login*</mask>
+    <mask>**</mask>
+    <mask>*twig</mask>
+    <mask>I*</mask>
+    <mask>*readme*</mask>
+    <mask>!*.sql</mask>
+    <mask>*.php</mask>
+    <mask>*UP.sql</mask>
+    <mask>cityhop*</mask>
+    <mask>*view.php</mask>
+    <mask>*.json</mask>
+    <mask>*.inc</mask>
+    <mask>*.scss</mask>
+    <mask>*twig*</mask>
+    <mask>*config.inc*</mask>
+    <mask>*up*</mask>
+    <mask>*UP*</mask>
+    <mask>*Factory*</mask>
+    <mask>*acl*</mask>
+    <mask>*test*</mask>
+    <mask>*Mapper*</mask>
+    <mask>*.sql</mask>
+    <mask>*lang*</mask>
+    <mask>*config*</mask>
+  </component>
+</application>

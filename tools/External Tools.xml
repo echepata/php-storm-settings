@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="Phalcon Controller" description="Phalcon make controller" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\LAMPProjects\phalcon1\php\php.exe" />
+      <option name="PARAMETERS" value="C:\LAMPProjects\phalcon1\htdocs\vendor\phalcon\devtools\phalcon.php controller $Prompt$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Phalcon Model" description="Phalcon make controller" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\LAMPProjects\phalcon1\php\php.exe" />
+      <option name="PARAMETERS" value="C:\LAMPProjects\phalcon1\htdocs\vendor\phalcon\devtools\phalcon.php model $Prompt$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Xampp Control Panel" description="Open Xampp Control Panel for this project" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$\..\xampp-control.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

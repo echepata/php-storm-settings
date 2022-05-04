@@ -1,0 +1,12 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.128.26.75" id="5b42a033-5f0a-417a-ad51-2f7f17032e9c" port="22" customName="GOGET BETA VPN" nameFormat="CUSTOM" username="fcdev">
+        <option name="customName" value="GOGET BETA VPN" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="10.128.26.75" id="9ffdb583-fd8c-4a34-966e-f7a4014c39d5" port="22" customName="GOGET PRODUCTION VPN" nameFormat="CUSTOM" username="fcdev">
+        <option name="customName" value="GOGET PRODUCTION VPN" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
