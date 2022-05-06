@@ -9,7 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="*factory*" />
     <mask>*.mxml</mask>
     <mask>*service*</mask>
     <mask>*.tpl</mask>
@@ -39,5 +39,6 @@
     <mask>*.sql</mask>
     <mask>*lang*</mask>
     <mask>*config*</mask>
+    <mask>*factory*</mask>
   </component>
 </application>
