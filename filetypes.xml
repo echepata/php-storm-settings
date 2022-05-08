@@ -1,46 +1,48 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="5-Arrays-Part-1.php" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess2" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="SquareLinks" type="PLAIN_TEXT" />
-      <mapping pattern="nxsengraving_previewimage" type="PLAIN_TEXT" />
-      <mapping pattern="creator_uid" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern="101-DTA-400_AddCatalogueCategories" type="PLAIN_TEXT" />
-      <mapping pattern=".env.copy" type="PLAIN_TEXT" />
-      <mapping pattern="d492b21e36aa16190b97405fe11f08cc" type="PLAIN_TEXT" />
-      <mapping pattern="callstack" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
-      <mapping pattern="nxssslshop_oxshopcontrol" type="PLAIN_TEXT" />
-      <mapping pattern="nxs-docker" type="PLAIN_TEXT" />
-      <mapping pattern="tdsst" type="PLAIN_TEXT" />
-      <mapping pattern="arrays" type="PLAIN_TEXT" />
-      <mapping pattern="nxs_premiumdelivery_change_payment" type="PLAIN_TEXT" />
-      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
-      <mapping pattern="test1" type="PLAIN_TEXT" />
-      <mapping pattern="main--en-US--currencies" type="PLAIN_TEXT" />
-      <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="0c506b6b1b08809d9d5d19aadb71da36" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess_prod" type="PLAIN_TEXT" />
-      <mapping pattern="changePageTitle" type="PLAIN_TEXT" />
-      <mapping pattern="nxs_navision_scheduledreceiptscalculator" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="tset" type="PLAIN_TEXT" />
-      <mapping pattern=".listing" type="PLAIN_TEXT" />
-      <mapping pattern="DTA-583_createSiegelPromoCategory" type="PLAIN_TEXT" />
-      <mapping pattern="nxs_translationsimport_csvfile" type="PLAIN_TEXT" />
-      <mapping pattern=".env.vagrant" type="PLAIN_TEXT" />
-      <mapping pattern="nxsshopssl_oxarticle" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="5-Arrays-Part-1.php" type="PLAIN_TEXT" />
       <mapping pattern="DTA-7_TeaserBereich" type="PLAIN_TEXT" />
-      <mapping pattern="src" type="PLAIN_TEXT" />
+      <mapping pattern=".env.vagrant" type="PLAIN_TEXT" />
+      <mapping pattern="SquareLinks" type="PLAIN_TEXT" />
+      <mapping pattern="DTA-583_createSiegelPromoCategory" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess2" type="PLAIN_TEXT" />
+      <mapping pattern="test1" type="PLAIN_TEXT" />
+      <mapping pattern="nxs_translationsimport_csvfile" type="PLAIN_TEXT" />
+      <mapping pattern="nxsengraving_previewimage" type="PLAIN_TEXT" />
       <mapping pattern="cf4f2b2db6f4978aeefc30f143e84043" type="PLAIN_TEXT" />
+      <mapping pattern="changePageTitle" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess_prod" type="PLAIN_TEXT" />
+      <mapping pattern="d492b21e36aa16190b97405fe11f08cc" type="PLAIN_TEXT" />
+      <mapping pattern="101-DTA-400_AddCatalogueCategories" type="PLAIN_TEXT" />
+      <mapping pattern="src" type="PLAIN_TEXT" />
+      <mapping pattern="nxssslshop_oxshopcontrol" type="PLAIN_TEXT" />
+      <mapping pattern="nxs_navision_scheduledreceiptscalculator" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern="nxs_premiumdelivery_change_payment" type="PLAIN_TEXT" />
       <mapping pattern="0a8e520eb59277fe03efefae2c56eb21" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
+      <mapping pattern="nxsshopssl_oxarticle" type="PLAIN_TEXT" />
+      <mapping pattern="main--en-US--currencies" type="PLAIN_TEXT" />
+      <mapping pattern="callstack" type="PLAIN_TEXT" />
+      <mapping pattern="nxs-docker" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.copy" type="PLAIN_TEXT" />
       <mapping pattern="nxsffrecomm_" type="PLAIN_TEXT" />
+      <mapping pattern="arrays" type="PLAIN_TEXT" />
+      <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
+      <mapping pattern="tset" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern=".listing" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="creator_uid" type="PLAIN_TEXT" />
+      <mapping pattern="tdsst" type="PLAIN_TEXT" />
       <mapping ext="dvi" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
@@ -62,7 +64,6 @@
       <mapping ext="txt}" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="gql" type="PLAIN_TEXT" />
-      <mapping pattern="nxsHeaderTop" type="Twig" />
       <mapping ext="echeverri-0fbc045cd3974fb4f1dc601c953271b992" type="XML" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -73,8 +74,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="nxsHeaderTop" type="Twig" />
     </extensionMap>
   </component>
 </application>
