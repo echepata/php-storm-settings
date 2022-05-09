@@ -1,6 +1,6 @@
 <application>
   <component name="UISettings">
-    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="DISABLE_MNEMONICS" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="6" />
     <option name="MAX_LOOKUP_WIDTH2" value="961" />
