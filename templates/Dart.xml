@@ -29,4 +29,12 @@
       <option name="DART_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="!!" value="/// @author    $AUTHOR$&#10;/// @since     $DATE$&#10;/// @copyright $YEAR$ Carshare Australia Pty Ltd.&#10;" description="Add copyright information Dart" toReformat="true" toShortenFQNames="true">
+    <variable name="AUTHOR" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="YEAR" expression="date(&quot;yyyy&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
