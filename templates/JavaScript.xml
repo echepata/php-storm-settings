@@ -69,12 +69,13 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="!!" value="/**&#10; * @author    $AUTHOR$&#10; * @since     $DATE$&#10; * @copyright $YEAR$ Carshare Australia Pty Ltd.&#10; */" description="Add copyright information" toReformat="false" toShortenFQNames="true">
+  <template name="!!" value="/**&#10; * @author    $AUTHOR$&#10; * @since     $DATE$&#10; * @copyright $YEAR$ Carshare Australia Pty Ltd.&#10; */" description="Add copyright information JS" toReformat="false" toShortenFQNames="true">
     <variable name="AUTHOR" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="DATE" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="false" />
     <variable name="YEAR" expression="date(&quot;yyyy&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="CSS" value="false" />
+      <option name="DART" value="false" />
       <option name="ECMAScript6" value="false" />
       <option name="HTML" value="false" />
       <option name="OTHER" value="true" />
