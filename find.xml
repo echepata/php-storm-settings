@@ -5,7 +5,6 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*service*</mask>
     <mask>*.tpl</mask>
     <mask>*.xml</mask>
     <mask>config*</mask>
@@ -15,7 +14,6 @@
     <mask>I*</mask>
     <mask>*readme*</mask>
     <mask>!*.sql</mask>
-    <mask>*.php</mask>
     <mask>*UP.sql</mask>
     <mask>cityhop*</mask>
     <mask>*view.php</mask>
@@ -30,10 +28,12 @@
     <mask>*test*</mask>
     <mask>*Mapper*</mask>
     <mask>*.sql</mask>
-    <mask>*config*</mask>
     <mask>*factory*</mask>
     <mask>*lang*</mask>
     <mask>*route*</mask>
     <mask>*up*</mask>
+    <mask>*.php</mask>
+    <mask>*model*</mask>
+    <mask>*config*</mask>
   </component>
 </application>
