@@ -728,7 +728,6 @@
             <match>
               <AND>
                 <METHOD>true</METHOD>
-                <NAME>render</NAME>
                 <PUBLIC>true</PUBLIC>
               </AND>
             </match>
