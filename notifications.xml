@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="Automatic indent detection" />
     <notification groupId="Browser Connection" />
+    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Built-in Server" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
