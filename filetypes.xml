@@ -2,11 +2,13 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="5-Arrays-Part-1.php" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess2" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="SquareLinks" type="PLAIN_TEXT" />
       <mapping pattern="nxsengraving_previewimage" type="PLAIN_TEXT" />
+      <mapping pattern="SquareLinks" type="PLAIN_TEXT" />
       <mapping pattern="creator_uid" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="101-DTA-400_AddCatalogueCategories" type="PLAIN_TEXT" />
@@ -38,7 +40,6 @@
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern="DTA-7_TeaserBereich" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="cf4f2b2db6f4978aeefc30f143e84043" type="PLAIN_TEXT" />
       <mapping pattern="0a8e520eb59277fe03efefae2c56eb21" type="PLAIN_TEXT" />
       <mapping pattern="nxsffrecomm_" type="PLAIN_TEXT" />
@@ -51,8 +52,8 @@
       <mapping ext="sh___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="echeverri-0fff7e5fecf07de07116e064b7712eb38d" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="nrql" type="PLAIN_TEXT" />
@@ -63,21 +64,20 @@
       <mapping ext="txt}" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="gql" type="PLAIN_TEXT" />
-      <mapping pattern="nxsHeaderTop" type="Twig" />
       <mapping ext="echeverri-0fbc045cd3974fb4f1dc601c953271b992" type="XML" />
       <mapping ext="xlf" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="gql" approved="true" type="GraphQL" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="*.vue.php" approved="true" type="Vue.js" />
       <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="nxsHeaderTop" type="Twig" />
     </extensionMap>
   </component>
 </application>
