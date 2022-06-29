@@ -1,7 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <includes_templates>
-      <template name="File header.dart" file-name="Dart file header" reformat="true" live-template-enabled="false" />
-    </includes_templates>
-  </component>
-</application>
