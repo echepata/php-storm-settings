@@ -37,7 +37,10 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="for" value="for (int i = 0; i &lt; $VAR$.length; i++) {&#10;    &#10;}" description="for loop" toReformat="false" toShortenFQNames="true">
+  <template name="for" value="for (int i = 0; i &lt; $VAR$.length; i++) {&#10;  $END$&#10;}" description="for loop" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
   </template>
 </templateSet>
