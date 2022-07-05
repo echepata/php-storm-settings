@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R52M5014KKB" />
+          </Key>
+        </key>
+        <name value="samsung SM-T720" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="HA0V5PG3" />
           </Key>
         </key>
@@ -22,17 +33,6 @@
         <name value="Sony G8441" />
         <target value="Android 9.0" />
         <api value="28" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R52M5014KKB" />
-          </Key>
-        </key>
-        <name value="samsung SM-T720" />
-        <target value="Android 10.0" />
-        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
