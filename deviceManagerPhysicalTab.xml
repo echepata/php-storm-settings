@@ -34,6 +34,17 @@
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="RF8MC0DR76J" />
+          </Key>
+        </key>
+        <name value="samsung SM-G973F" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
