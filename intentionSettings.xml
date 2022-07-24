@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="PHP/Add fluent setter" />
+    <ignoreAction name="PHP/Symfony2MethodCreateService" />
+  </component>
+</application>
