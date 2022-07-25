@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="BH9062Y69E" />
+          </Key>
+        </key>
+        <name value="Sony G8441" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R52M5014KKB" />
           </Key>
         </key>
@@ -22,17 +33,6 @@
         <name value="LENOVO Lenovo TB-X103F" />
         <target value="Android 6.0" />
         <api value="23" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="BH9062Y69E" />
-          </Key>
-        </key>
-        <name value="Sony G8441" />
-        <target value="Android 9.0" />
-        <api value="28" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
