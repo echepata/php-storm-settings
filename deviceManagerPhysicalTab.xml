@@ -20,8 +20,8 @@
           </Key>
         </key>
         <name value="samsung SM-T720" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
