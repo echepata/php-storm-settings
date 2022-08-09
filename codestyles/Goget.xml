@@ -551,9 +551,6 @@
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="Dart">
-    <option name="RIGHT_MARGIN" value="100" />
-  </codeStyleSettings>
   <codeStyleSettings language="Derby">
     <indentOptions>
       <option name="SMART_TABS" value="true" />
