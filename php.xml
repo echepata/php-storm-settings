@@ -72,7 +72,7 @@
       <interpreter name="PHP 7.4 GoGet Dell XPS 13">
         <phpinfo binary_type="PHP" php_cgi="C:\tools\Apache\php74\php-cgi.exe" php_cli="C:\tools\Apache\php74\php.exe" path_separator=";" version="7.4.30">
           <additional_php_ini />
-          <configuration_file />
+          <configuration_file>C:\tools\Apache\php74\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
@@ -87,6 +87,7 @@
             <extension name="bcmath" />
             <extension name="calendar" />
             <extension name="ctype" />
+            <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
             <extension name="filter" />
@@ -95,6 +96,7 @@
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mysqlnd" />
+            <extension name="openssl" />
             <extension name="pcre" />
             <extension name="readline" />
             <extension name="session" />
