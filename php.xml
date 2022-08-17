@@ -1,10 +1,4 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="17ad04a5-f32d-4691-b618-d6a6a2ff4273" name="PHP 5.6" home="C:\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
@@ -12,6 +6,7 @@
       <interpreter id="88022513-ecaa-4815-9e96-df4b4da4c7d0" name="PHP 7.2 Phalcon integration test" home="C:\LAMPProjects\phalcon1\php\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="09e3508a-39d0-46d2-a959-13f136fd06db" name="PHP 7 Goget" home="C:\tools\Apache\php\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="40feecc5-d8ee-46cb-b23f-aa4053691655" name="PHP 7.0 GoGet Omen" home="C:\Users\Diego Goget\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="b48ecc12-ee29-46d3-8659-1173b4013a5f" name="PHP 7.4 GoGet Dell XPS 13" home="C:\tools\Apache\php74\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
