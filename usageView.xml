@@ -2,12 +2,12 @@
   <component name="ImportFilteringUsageViewSetting">
     <option name="SHOW_IMPORTS" value="false" />
   </component>
+  <component name="PhpThisOrSelfImportFilteringUsageSetting">
+    <option name="SHOW_THIS_OR_SELF_REFERENCES" value="true" />
+  </component>
   <component name="ShowUsagesSettings">
     <option name="IS_EXPANDED" value="true" />
     <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
-  </component>
-  <component name="UsageFilteringRuleState">
-    <option value="com.intellij.usages.impl.rules.UsageInGeneratedCodeFilteringRule" />
   </component>
   <component name="UsageViewSettings">
     <option name="IS_EXPANDED" value="true" />
