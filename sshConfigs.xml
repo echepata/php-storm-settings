@@ -7,6 +7,9 @@
       <sshConfig authType="PASSWORD" host="10.128.26.75" id="9ffdb583-fd8c-4a34-966e-f7a4014c39d5" port="22" customName="GOGET PRODUCTION VPN" nameFormat="CUSTOM" username="fcdev">
         <option name="customName" value="GOGET PRODUCTION VPN" />
       </sshConfig>
+      <sshConfig host="localhost" id="d8fdc90b-b3b9-43ba-8ab4-a3da7ada1260" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Local SSH key" nameFormat="CUSTOM" username="composer" useOpenSSHConfig="false">
+        <option name="customName" value="Local SSH key" />
+      </sshConfig>
     </configs>
   </component>
 </application>
