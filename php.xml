@@ -118,7 +118,11 @@
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="3.1.5">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -132,19 +136,23 @@
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
+            <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
+            <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
             <extension name="pcre" />
+            <extension name="pdo_mysql" />
             <extension name="readline" />
             <extension name="session" />
             <extension name="standard" />
             <extension name="tokenizer" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
