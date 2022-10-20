@@ -8,7 +8,7 @@
             <value value="R52M5014KKB" />
           </Key>
         </key>
-        <name value="Device" />
+        <name value="samsung SM-T720" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
