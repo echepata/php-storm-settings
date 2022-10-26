@@ -33,6 +33,7 @@
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="tset" type="PLAIN_TEXT" />
       <mapping pattern=".listing" type="PLAIN_TEXT" />
+      <mapping pattern=".sample.env" type="PLAIN_TEXT" />
       <mapping pattern="DTA-583_createSiegelPromoCategory" type="PLAIN_TEXT" />
       <mapping pattern="nxs_translationsimport_csvfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.vagrant" type="PLAIN_TEXT" />
