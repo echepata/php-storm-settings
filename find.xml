@@ -26,7 +26,6 @@
     <mask>*UP*</mask>
     <mask>*Factory*</mask>
     <mask>*acl*</mask>
-    <mask>*test*</mask>
     <mask>*Mapper*</mask>
     <mask>*.sql</mask>
     <mask>*factory*</mask>
@@ -37,5 +36,6 @@
     <mask>*up*</mask>
     <mask>*.md</mask>
     <mask>*config*</mask>
+    <mask>*test*</mask>
   </component>
 </application>
