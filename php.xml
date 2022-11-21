@@ -148,8 +148,10 @@
             <extension name="openssl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
+            <extension name="pdo_sqlite" />
             <extension name="readline" />
             <extension name="session" />
+            <extension name="sodium" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="xdebug" />
