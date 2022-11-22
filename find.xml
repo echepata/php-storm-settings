@@ -2,7 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
@@ -24,16 +26,16 @@
     <mask>*UP*</mask>
     <mask>*Factory*</mask>
     <mask>*acl*</mask>
-    <mask>*test*</mask>
     <mask>*Mapper*</mask>
     <mask>*.sql</mask>
     <mask>*factory*</mask>
     <mask>*route*</mask>
     <mask>*.php</mask>
     <mask>*model*</mask>
-    <mask>*config*</mask>
     <mask>*lang*</mask>
     <mask>*up*</mask>
     <mask>*.md</mask>
+    <mask>*config*</mask>
+    <mask>*test*</mask>
   </component>
 </application>
