@@ -1,0 +1,11 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="D/EGL_emulation" />
+        <option value="magma-graphics-opengl" />
+        <option value="setAsyncMode: BufferQueue has been abandoned" />
+      </list>
+    </option>
+  </component>
+</application>
