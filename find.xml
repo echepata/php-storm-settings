@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
+    <option name="FILE_MASK" value="*v2_rego*" />
     <mask>config*</mask>
     <mask>*login*</mask>
     <mask>**</mask>
@@ -35,5 +35,6 @@
     <mask>*.md</mask>
     <mask>*config*</mask>
     <mask>*test*</mask>
+    <mask>*v2_rego*</mask>
   </component>
 </application>
