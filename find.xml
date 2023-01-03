@@ -5,8 +5,6 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
-    <mask>config*</mask>
     <mask>*login*</mask>
     <mask>**</mask>
     <mask>*twig</mask>
@@ -35,5 +33,7 @@
     <mask>*.md</mask>
     <mask>*config*</mask>
     <mask>*test*</mask>
+    <mask>*v2_rego*</mask>
+    <mask>*stage*</mask>
   </component>
 </application>
