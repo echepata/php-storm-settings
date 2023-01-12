@@ -2,11 +2,13 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="5-Arrays-Part-1.php" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess2" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="SquareLinks" type="PLAIN_TEXT" />
       <mapping pattern="nxsengraving_previewimage" type="PLAIN_TEXT" />
+      <mapping pattern="SquareLinks" type="PLAIN_TEXT" />
       <mapping pattern="creator_uid" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="101-DTA-400_AddCatalogueCategories" type="PLAIN_TEXT" />
@@ -51,8 +53,8 @@
       <mapping ext="sh___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="echeverri-0fff7e5fecf07de07116e064b7712eb38d" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="nrql" type="PLAIN_TEXT" />
@@ -62,7 +64,6 @@
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="txt}" type="PLAIN_TEXT" />
       <mapping ext="gql" type="PLAIN_TEXT" />
-      <mapping pattern="nxsHeaderTop" type="Twig" />
       <mapping ext="echeverri-0fbc045cd3974fb4f1dc601c953271b992" type="XML" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
@@ -78,8 +79,7 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="*.vue.php" approved="true" type="Vue.js" />
       <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="nxsHeaderTop" type="Twig" />
     </extensionMap>
   </component>
 </application>
