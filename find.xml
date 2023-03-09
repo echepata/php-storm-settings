@@ -31,9 +31,9 @@
     <mask>*lang*</mask>
     <mask>*up*</mask>
     <mask>*.md</mask>
-    <mask>*config*</mask>
     <mask>*test*</mask>
     <mask>*v2_rego*</mask>
     <mask>*stage*</mask>
+    <mask>*config*</mask>
   </component>
 </application>
