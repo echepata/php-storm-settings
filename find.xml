@@ -7,6 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*config*" />
     <mask>*login*</mask>
     <mask>**</mask>
     <mask>*twig</mask>
@@ -33,9 +34,9 @@
     <mask>*lang*</mask>
     <mask>*up*</mask>
     <mask>*.md</mask>
-    <mask>*config*</mask>
     <mask>*test*</mask>
     <mask>*v2_rego*</mask>
     <mask>*stage*</mask>
+    <mask>*config*</mask>
   </component>
 </application>
