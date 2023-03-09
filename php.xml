@@ -4,7 +4,7 @@
       <interpreter id="17ad04a5-f32d-4691-b618-d6a6a2ff4273" name="PHP 5.6" home="C:\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="d397a9fe-f127-4dce-b489-13698ee78a5e" name="PHP 7.0.33 ZTS" home="C:\xampp\php7.0.33\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="88022513-ecaa-4815-9e96-df4b4da4c7d0" name="PHP 7.2 Phalcon integration test" home="C:\LAMPProjects\phalcon1\php\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="09e3508a-39d0-46d2-a959-13f136fd06db" name="PHP 7 Goget" home="C:\tools\Apache\php\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="09e3508a-39d0-46d2-a959-13f136fd06db" name="PHP 7 Goget" home="C:\tools\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="40feecc5-d8ee-46cb-b23f-aa4053691655" name="PHP 7.0 GoGet Omen" home="C:\Users\Diego Goget\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="b48ecc12-ee29-46d3-8659-1173b4013a5f" name="PHP 7.4 GoGet Dell XPS 13" home="C:\tools\Apache\php74\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="7eeb5167-488f-4221-84ca-53071153cff4" name="PHP 8.1 GoGet Dell XPS 13" home="C:\tools\Apache\php81\php.exe" debugger_id="php.debugger.XDebug" />
@@ -164,17 +164,13 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7 Goget">
-        <phpinfo binary_type="PHP" php_cgi="C:\tools\Apache\php\php-cgi.exe" php_cli="C:\tools\Apache\php\php.exe" path_separator=";" version="7.0.27">
+        <phpinfo binary_type="PHP" php_cgi="C:\tools\xampp\php\php-cgi.exe" php_cli="C:\tools\xampp\php\php.exe" path_separator=";" version="7.0.33">
           <additional_php_ini />
-          <configuration_file>C:\tools\Apache\php\php.ini</configuration_file>
+          <configuration_file>C:\tools\xampp\php\php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value="C:\tools\Apache\php\PEAR" />
+            <configuration_option name="include_path" value="C:\tools\xampp\php\PEAR" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.0">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -208,11 +204,9 @@
             <extension name="pdo_mysql" />
             <extension name="pdo_sqlite" />
             <extension name="session" />
-            <extension name="soap" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
