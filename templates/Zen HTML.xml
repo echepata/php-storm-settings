@@ -1,0 +1,41 @@
+<templateSet group="Zen HTML">
+  <template name="if" value="&lt;?php if ($CONDITION$) { ?&gt;&#10;    $END$&#10;&lt;?php } ?&gt;" description="PHP-HTML if statement" toReformat="true" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="echo" value="&lt;?= $WHAT$ ?&gt;" description="PHP-HTML echo statement" toReformat="true" toShortenFQNames="true">
+    <variable name="WHAT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="&lt;!-- ToDo: $TODO$ --&gt;" description="Add a ToDo comment" toReformat="true" toShortenFQNames="true">
+    <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="lang" value="&lt;?= $vm-&gt;lang('$LANG_KEY$') ?&gt;" description="Create a ViewModel lang() call" toReformat="false" toShortenFQNames="true">
+    <variable name="LANG_KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="inc" value="&lt;?php include $FILE$; ?&gt;" description="php include line" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="include" value="&lt;?php include('$FILE_NAME$'); ?&gt;" description="PHP HTML include construct" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

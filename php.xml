@@ -1,0 +1,229 @@
+<application>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="17ad04a5-f32d-4691-b618-d6a6a2ff4273" name="PHP 5.6" home="C:\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="d397a9fe-f127-4dce-b489-13698ee78a5e" name="PHP 7.0.33 ZTS" home="C:\xampp\php7.0.33\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="88022513-ecaa-4815-9e96-df4b4da4c7d0" name="PHP 7.2 Phalcon integration test" home="C:\LAMPProjects\phalcon1\php\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="09e3508a-39d0-46d2-a959-13f136fd06db" name="PHP 7 Goget" home="C:\tools\Apache\php\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="40feecc5-d8ee-46cb-b23f-aa4053691655" name="PHP 7.0 GoGet Omen" home="C:\Users\Diego Goget\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="b48ecc12-ee29-46d3-8659-1173b4013a5f" name="PHP 7.4 GoGet Dell XPS 13" home="C:\tools\Apache\php74\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="7eeb5167-488f-4221-84ca-53071153cff4" name="PHP 8.1 GoGet Dell XPS 13" home="C:\tools\Apache\php81\php.exe" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+  <component name="PhpInterpretersPhpInfoCache">
+    <phpInfoCache>
+      <interpreter name="PHP 7.2 Phalcon integration test">
+        <phpinfo binary_type="PHP" php_cgi="C:\LAMPProjects\phalcon1\php\php-cgi.exe" php_cli="C:\LAMPProjects\phalcon1\php\php.exe" path_separator=";" version="7.2.16">
+          <additional_php_ini />
+          <configuration_file>C:\LAMPProjects\phalcon1\php\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value="C:\LAMPProjects\phalcon1\php\PEAR" />
+          </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.6.1">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="gettext" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_sqlite" />
+            <extension name="phalcon" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHP 7.4 GoGet Dell XPS 13">
+        <phpinfo binary_type="PHP" php_cgi="C:\tools\Apache\php74\php-cgi.exe" php_cli="C:\tools\Apache\php74\php.exe" path_separator=";" version="7.4.30">
+          <additional_php_ini />
+          <configuration_file>C:\tools\Apache\php74\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".;C:\php\pear" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="filter" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHP 8.1 GoGet Dell XPS 13">
+        <phpinfo binary_type="PHP" php_cgi="C:\tools\Apache\php81\php-cgi.exe" php_cli="C:\tools\Apache\php81\php.exe" path_separator=";" version="8.1.9">
+          <additional_php_ini />
+          <configuration_file>C:\tools\Apache\php81\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".;C:\php\pear" />
+          </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="3.1.5">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_sqlite" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="sodium" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHP 7 Goget">
+        <phpinfo binary_type="PHP" php_cgi="C:\tools\Apache\php\php-cgi.exe" php_cli="C:\tools\Apache\php\php.exe" path_separator=";" version="7.0.27">
+          <additional_php_ini />
+          <configuration_file>C:\tools\Apache\php\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value="C:\tools\Apache\php\PEAR" />
+          </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.6.0">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="gettext" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mcrypt" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_sqlite" />
+            <extension name="session" />
+            <extension name="soap" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+    </phpInfoCache>
+  </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="promptFindUsagesOfBaseMethod" value="false" />
+  </component>
+</application>
