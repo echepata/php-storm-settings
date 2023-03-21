@@ -5,22 +5,22 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="RF8M302B1NE" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R52M5014KKB" />
           </Key>
         </key>
         <name value="samsung SM-T720" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="RF8M302B1NE" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
