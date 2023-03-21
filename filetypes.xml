@@ -58,6 +58,7 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="nrql" type="PLAIN_TEXT" />
       <mapping ext="log&#10;" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
