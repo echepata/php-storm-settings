@@ -5,6 +5,8 @@
         <option value="D/EGL_emulation" />
         <option value="magma-graphics-opengl" />
         <option value="setAsyncMode: BufferQueue has been abandoned" />
+        <option value="W/p_pipelines_po( 5640): Accessing hidden method Lsun/misc/Unsafe;-&gt;getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)" />
+        <option value="Accessing hidden method Lsun/misc/Unsafe" />
       </list>
     </option>
   </component>
