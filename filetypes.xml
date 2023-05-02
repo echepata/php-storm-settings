@@ -6,8 +6,8 @@
       <mapping pattern=".htaccess2" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern="SquareLinks" type="PLAIN_TEXT" />
       <mapping pattern="nxsengraving_previewimage" type="PLAIN_TEXT" />
+      <mapping pattern="SquareLinks" type="PLAIN_TEXT" />
       <mapping pattern="creator_uid" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="101-DTA-400_AddCatalogueCategories" type="PLAIN_TEXT" />
@@ -56,6 +56,7 @@
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="nrql" type="PLAIN_TEXT" />
       <mapping ext="log&#10;" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
