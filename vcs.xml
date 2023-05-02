@@ -255,16 +255,20 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@bitbucket.org:fleetcutter/flutter-fleetcutter-helpers.git" />
+          <option name="url" value="git@bitbucket.org:fleetcutter/dispatch-cloud-functions-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@bitbucket.org:fleetcutter/flutter_responsive_components.git" />
+          <option name="url" value="git@bitbucket.org:fleetcutter/gg-data-pipelines-cdc-processing-cloudfunction.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:fleetcutter/gg-data-pipelines-cdc-processing-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\diego_goget\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\diego_goget\PhpstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />

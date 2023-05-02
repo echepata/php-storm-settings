@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="Access to features" />
+            <option value="should be prod/" />
           </set>
         </option>
       </SuppressingContext>
