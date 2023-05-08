@@ -7,7 +7,6 @@
   </template>
   <template name="if" value="{% if $CONDITION$ %}&#10;    $END$&#10;{% else %}&#10;{% endif %}" description="TWIG if...endif" toReformat="true" toShortenFQNames="false">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="lang" value="{{ vm.lang('$LANG_KEY$') }}" description="TWIG lang() call" toReformat="false" toShortenFQNames="true">
     <variable name="LANG_KEY" expression="" defaultValue="" alwaysStopAt="true" />
