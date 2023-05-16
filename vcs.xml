@@ -270,9 +270,13 @@
           <option name="url" value="git@bitbucket.org:fleetcutter/gg-data-pipelines-availability-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:fleetcutter/flutter-background-location-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\diego_goget\PhpstormProjects" />
+    <option name="cloneParentDir" value="C:\Users\diego_goget\FlutterProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
