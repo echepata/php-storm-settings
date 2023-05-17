@@ -69,28 +69,16 @@
       <mapping ext="echeverri-0fbc045cd3974fb4f1dc601c953271b992" type="XML" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="db" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="db" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="gql" approved="true" type="GraphQL" />
       <removed_mapping ext="gql" approved="true" type="GraphQL" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="*.vue.php" approved="true" type="Vue.js" />
-      <removed_mapping pattern="*.vue.php" approved="true" type="Vue.js" />
-      <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
