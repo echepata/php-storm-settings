@@ -7,8 +7,8 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping pattern="nxsengraving_previewimage" type="PLAIN_TEXT" />
       <mapping pattern="SquareLinks" type="PLAIN_TEXT" />
+      <mapping pattern="nxsengraving_previewimage" type="PLAIN_TEXT" />
       <mapping pattern="creator_uid" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="101-DTA-400_AddCatalogueCategories" type="PLAIN_TEXT" />
@@ -42,7 +42,6 @@
       <mapping pattern="DTA-7_TeaserBereich" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
       <mapping pattern="cf4f2b2db6f4978aeefc30f143e84043" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="0a8e520eb59277fe03efefae2c56eb21" type="PLAIN_TEXT" />
       <mapping pattern="nxsffrecomm_" type="PLAIN_TEXT" />
       <mapping ext="dvi" type="PLAIN_TEXT" />
@@ -70,16 +69,28 @@
       <mapping ext="echeverri-0fbc045cd3974fb4f1dc601c953271b992" type="XML" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="db" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="db" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="gql" approved="true" type="GraphQL" />
       <removed_mapping ext="gql" approved="true" type="GraphQL" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="*.vue.php" approved="true" type="Vue.js" />
+      <removed_mapping pattern="*.vue.php" approved="true" type="Vue.js" />
+      <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
