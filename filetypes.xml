@@ -43,6 +43,7 @@
       <mapping pattern="DTA-7_TeaserBereich" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
       <mapping pattern="cf4f2b2db6f4978aeefc30f143e84043" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="0a8e520eb59277fe03efefae2c56eb21" type="PLAIN_TEXT" />
       <mapping pattern="nxsffrecomm_" type="PLAIN_TEXT" />
       <mapping ext="dvi" type="PLAIN_TEXT" />
