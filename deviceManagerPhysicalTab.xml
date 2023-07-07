@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="BH9062Y69E" />
+          </Key>
+        </key>
+        <name value="Sony G8441" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="RFCW20KSQKV" />
           </Key>
         </key>
@@ -43,17 +54,6 @@
         <name value="samsung SM-T720" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="BH9062Y69E" />
-          </Key>
-        </key>
-        <name value="Sony G8441" />
-        <target value="Android 9.0" />
-        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
