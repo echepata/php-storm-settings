@@ -7,7 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*login*</mask>
+    <option name="FILE_MASK" value="*dart*" />
     <mask>**</mask>
     <mask>*twig</mask>
     <mask>I*</mask>
@@ -37,5 +37,6 @@
     <mask>*v2_rego*</mask>
     <mask>*stage*</mask>
     <mask>*config*</mask>
+    <mask>*dart*</mask>
   </component>
 </application>
