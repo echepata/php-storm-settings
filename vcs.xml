@@ -278,9 +278,13 @@
           <option name="url" value="git@bitbucket.org:fleetcutter/goget-android-app-project.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:fleetcutter/goget-preference-centre-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\diego_goget\AndroidProjects" />
+    <option name="cloneParentDir" value="C:\Users\diego_goget\FlutterProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
