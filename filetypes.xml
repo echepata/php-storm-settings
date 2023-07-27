@@ -12,8 +12,8 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping pattern="nxsengraving_previewimage" type="PLAIN_TEXT" />
       <mapping pattern="SquareLinks" type="PLAIN_TEXT" />
+      <mapping pattern="nxsengraving_previewimage" type="PLAIN_TEXT" />
       <mapping pattern="creator_uid" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="101-DTA-400_AddCatalogueCategories" type="PLAIN_TEXT" />
