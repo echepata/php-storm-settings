@@ -9,6 +9,7 @@
         <option value="Long monitor contention with owner" />
         <option value="magma-graphics-opengl" />
         <option value="NativeAlloc concurrent copying GC freed" />
+        <option value="reason = SHOW_SOFT_INPUT" />
         <option value="Sending fetchTimeout: 30" />
         <option value="setAsyncMode: BufferQueue has been abandoned" />
         <option value="The input has been finished in ImeInputStage" />
@@ -17,7 +18,7 @@
         <option value="W/p_pipelines_po( 5640): Accessing hidden method Lsun/misc/Unsafe;-&gt;getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)" />
         <option value="WaitForGcToComplete blocked ProfileSaver on HeapTrim for" />
         <option value="Waiting for a blocking GC ProfileSaver" />
-        <option value="reason = SHOW_SOFT_INPUT" />
+        <option value=": ViewPostIme key" />
       </list>
     </option>
   </component>
