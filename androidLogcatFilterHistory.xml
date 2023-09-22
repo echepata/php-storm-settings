@@ -4,6 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:au.com.goget.www.member_booking_app " />
+        <option value="package:au.com.goget.www.member_booking_app riskified" />
+        <option value="package:au.com.goget.www.member_booking_app riski" />
+        <option value="riskified" />
       </list>
     </option>
   </component>

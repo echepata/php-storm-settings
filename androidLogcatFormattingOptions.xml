@@ -1,0 +1,5 @@
+<application>
+  <component name="AndroidLogcatFormattingOptions">
+    <option name="defaultFormatting" value="COMPACT" />
+  </component>
+</application>
