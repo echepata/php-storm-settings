@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>**</mask>
+    <mask>*twig</mask>
+    <mask>I*</mask>
+    <mask>*readme*</mask>
+    <mask>!*.sql</mask>
+    <mask>*UP.sql</mask>
+    <mask>cityhop*</mask>
+    <mask>*view.php</mask>
+    <mask>*.json</mask>
+    <mask>*.inc</mask>
+    <mask>*.scss</mask>
+    <mask>*twig*</mask>
+    <mask>*config.inc*</mask>
+    <mask>*UP*</mask>
+    <mask>*Factory*</mask>
+    <mask>*acl*</mask>
+    <mask>*Mapper*</mask>
+    <mask>*.sql</mask>
+    <mask>*factory*</mask>
+    <mask>*route*</mask>
+    <mask>*.php</mask>
+    <mask>*model*</mask>
+    <mask>*lang*</mask>
+    <mask>*up*</mask>
+    <mask>*.md</mask>
+    <mask>*test*</mask>
+    <mask>*v2_rego*</mask>
+    <mask>*stage*</mask>
+    <mask>*config*</mask>
+    <mask>*dart*</mask>
+  </component>
+</application>

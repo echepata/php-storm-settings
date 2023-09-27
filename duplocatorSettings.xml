@@ -1,0 +1,11 @@
+<application>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="ECMA Script Level 4" />
+        <option value="ECMAScript 6" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="ECMA Script Level 4" />
+  </component>
+</application>
