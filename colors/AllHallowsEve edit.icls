@@ -1,9 +1,9 @@
 <scheme name="AllHallowsEve edit" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="feff3e" />
     <option name="BORDER_LINES_COLOR" value="" />
@@ -49,7 +49,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="BASH.FUNCTION_CALL" baseAttributes="" />
     <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="BASH.HERE_DOC">
       <value>

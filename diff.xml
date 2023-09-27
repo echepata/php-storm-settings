@@ -62,6 +62,9 @@
       </entry>
     </option>
   </component>
+  <component name="ExternalDiffSettings">
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
+  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
@@ -75,7 +78,6 @@
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
       <entry key="DirDiff">
@@ -86,7 +88,6 @@
       </entry>
       <entry key="VcsFileHistoryView">
         <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
