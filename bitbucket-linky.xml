@@ -1,9 +1,0 @@
-<application>
-  <component name="BitbucketCloudRegistry">
-    <lookup />
-  </component>
-  <component name="BitbucketServerRegistry">
-    <instances />
-    <lookup />
-  </component>
-</application>
