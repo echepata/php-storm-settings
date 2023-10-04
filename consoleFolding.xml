@@ -9,6 +9,7 @@
         <option value="merge t to BBQ" />
         <option value="NativeAlloc concurrent copying GC freed" />
         <option value="setAsyncMode: BufferQueue has been abandoned" />
+        <option value="startInputInner -" />
         <option value="Stop service in foreground" />
         <option value="t = android.view.SurfaceControl$Transaction@" />
         <option value="uid=10147(au.com.goget.gcp_pipelines_poc)" />
@@ -16,7 +17,7 @@
         <option value="W/p_pipelines_po( 5640): Accessing hidden method Lsun/misc/Unsafe;-&gt;getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)" />
         <option value="WaitForGcToComplete blocked ProfileSaver on HeapTrim for" />
         <option value="Waiting for a blocking GC ProfileSaver" />
-        <option value="startInputInner -" />
+        <option value="ViewPostIme key" />
       </list>
     </option>
   </component>
