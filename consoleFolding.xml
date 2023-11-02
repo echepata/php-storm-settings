@@ -2,6 +2,7 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="(au.com.goget.www.member_booking_app) identical" />
         <option value="Accessing hidden method Lsun/misc/Unsafe" />
         <option value="Background concurrent copying GC freed" />
         <option value="D/EGL_emulation" />
@@ -19,7 +20,7 @@
         <option value="W/p_pipelines_po( 5640): Accessing hidden method Lsun/misc/Unsafe;-&gt;getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)" />
         <option value="WaitForGcToComplete blocked ProfileSaver on HeapTrim for" />
         <option value="Waiting for a blocking GC ProfileSaver" />
-        <option value="(au.com.goget.www.member_booking_app) identical" />
+        <option value="Too many Flogger logs received before configuration" />
       </list>
     </option>
   </component>
