@@ -70,7 +70,7 @@
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="" />
+    <option name="lastViewedProviderKeyId" value="MarkdownTableInlayProviderSettingsKey" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
