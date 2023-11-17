@@ -14,13 +14,14 @@
         <option value="Stop service in foreground" />
         <option value="t = android.view.SurfaceControl$Transaction@" />
         <option value="The input has been finished in ImeInputStage" />
+        <option value="Too many Flogger logs received before configuration" />
         <option value="uid=10147(au.com.goget.gcp_pipelines_poc)" />
         <option value="ViewPostIme key" />
         <option value="ViewPostIme pointer" />
         <option value="W/p_pipelines_po( 5640): Accessing hidden method Lsun/misc/Unsafe;-&gt;getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)" />
         <option value="WaitForGcToComplete blocked ProfileSaver on HeapTrim for" />
         <option value="Waiting for a blocking GC ProfileSaver" />
-        <option value="Too many Flogger logs received before configuration" />
+        <option value="Not reporting timeline because gpuCompletedTime" />
       </list>
     </option>
   </component>
