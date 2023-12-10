@@ -144,6 +144,17 @@
         <target value="Android Tiramisu" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="HVA5CF3B" />
+          </Key>
+        </key>
+        <name value="LENOVO TB350FU" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
