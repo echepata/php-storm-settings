@@ -16,6 +16,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R9JT303KL2E" />
+          </Key>
+        </key>
+        <name value="samsung SM-X205" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="BH9062Y69E" />
           </Key>
         </key>
@@ -33,17 +44,6 @@
         <name value="samsung SM-G973F" />
         <target value="Android 12.0" />
         <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R9JT303KL2E" />
-          </Key>
-        </key>
-        <name value="samsung SM-X205" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
