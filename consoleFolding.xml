@@ -6,6 +6,7 @@
         <option value="Accessing hidden method Lsun/misc/Unsafe" />
         <option value="Background concurrent copying GC freed" />
         <option value="D/EGL_emulation" />
+        <option value="ged_gpu_timestamp: GED_ERROR_FAIL eErr = 0, -2" />
         <option value="magma-graphics-opengl" />
         <option value="merge t to BBQ" />
         <option value="NativeAlloc concurrent copying GC freed" />
@@ -22,7 +23,7 @@
         <option value="W/p_pipelines_po( 5640): Accessing hidden method Lsun/misc/Unsafe;-&gt;getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)" />
         <option value="WaitForGcToComplete blocked ProfileSaver on HeapTrim for" />
         <option value="Waiting for a blocking GC ProfileSaver" />
-        <option value="ged_gpu_timestamp: GED_ERROR_FAIL eErr = 0, -2" />
+        <option value="exceeded sample count in FrameTime" />
       </list>
     </option>
   </component>
