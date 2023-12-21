@@ -1,29 +1,12 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
+      <component name="ProjectViewState">
+        <option name="autoscrollFromSource" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+        <option name="sortByType" value="true" />
       </component>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-        <OptionsSetting value="true" id="Add" />
-        <OptionsSetting value="true" id="Remove" />
-        <OptionsSetting value="true" id="Checkout" />
-        <OptionsSetting value="true" id="Update" />
-        <OptionsSetting value="true" id="Status" />
-        <OptionsSetting value="true" id="Edit" />
-        <ConfirmationsSetting value="0" id="Add" />
-        <ConfirmationsSetting value="0" id="Remove" />
-      </component>
-      <component name="PropertiesComponent">
-        <property name="options.lastSelected" value="configurable.group.appearance" />
-        <property name="options.splitter.main.proportions" value="0.3" />
-        <property name="options.splitter.details.proportions" value="0.2" />
-        <property name="last_opened_file_path" value="D:/Diego/Documents/PhpStormProjects" />
-        <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-      </component>
-      <component name="SmartyConfiguration" left_delimiter="[{" right_delimiter="}]" use_smarty3_whitespaces_policy="false" />
     </defaultProject>
   </component>
 </application>

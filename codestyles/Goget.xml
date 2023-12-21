@@ -187,6 +187,7 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+    <option name="OBJECT_LITERAL_WRAP" value="2" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="BLANK_LINES_AROUND_FUNCTION" value="2" />
   </JSCodeStyleSettings>
@@ -589,6 +590,7 @@
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
