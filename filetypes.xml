@@ -48,25 +48,25 @@
       <mapping pattern="nxsffrecomm_" type="PLAIN_TEXT" />
       <mapping ext="dvi" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
-      <mapping ext="tmp" type="PLAIN_TEXT" />
-      <mapping ext="source" type="PLAIN_TEXT" />
-      <mapping ext="swf" type="PLAIN_TEXT" />
-      <mapping ext="file" type="PLAIN_TEXT" />
-      <mapping ext="sh___jb_old___" type="PLAIN_TEXT" />
-      <mapping ext="echeverri-0fff7e5fecf07de07116e064b7712eb38d" type="PLAIN_TEXT" />
-      <mapping ext="scssc" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
+      <mapping ext="txt}" type="PLAIN_TEXT" />
+      <mapping ext="swf" type="PLAIN_TEXT" />
+      <mapping ext="source" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="gql" type="PLAIN_TEXT" />
+      <mapping ext="nrql" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="scssc" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
+      <mapping ext="echeverri-0fff7e5fecf07de07116e064b7712eb38d" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="PLAIN_TEXT" />
+      <mapping ext="log&#10;" type="PLAIN_TEXT" />
+      <mapping ext="sh___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
-      <mapping ext="nrql" type="PLAIN_TEXT" />
-      <mapping ext="log&#10;" type="PLAIN_TEXT" />
-      <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="beta" type="PLAIN_TEXT" />
-      <mapping ext="prod" type="PLAIN_TEXT" />
-      <mapping ext="txt}" type="PLAIN_TEXT" />
-      <mapping ext="gql" type="PLAIN_TEXT" />
       <mapping pattern="nxsHeaderTop" type="Twig" />
       <mapping ext="echeverri-0fbc045cd3974fb4f1dc601c953271b992" type="XML" />
       <mapping ext="xlf" type="XML" />
