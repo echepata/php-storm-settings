@@ -15,6 +15,7 @@
     </option>
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="references" />
         <option value="vcs.code.vision" />
       </set>
     </option>
@@ -25,7 +26,6 @@
   <component name="DeclarativeInlayHintsSettings">
     <option name="disabledOptions">
       <set>
-        <option value="js.type.hints#function.returns" />
         <option value="js.type.hints#non.paren.single.param" />
         <option value="js.type.hints#parameters.in.parens" />
         <option value="js.type.hints#variables.and.fields" />
@@ -38,7 +38,7 @@
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.chain.hints" value="true" />
-        <entry key="js.type.hints" value="false" />
+        <entry key="js.type.hints" value="true" />
         <entry key="qodana.yaml.inspection.descriptions" value="true" />
         <entry key="ts.chain.hints" value="true" />
         <entry key="ts.enum.hints" value="true" />
