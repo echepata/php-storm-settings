@@ -13,6 +13,11 @@
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
@@ -60,7 +65,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
@@ -70,7 +75,7 @@
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="MarkdownTableInlayProviderSettingsKey" />
+    <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>

@@ -717,6 +717,9 @@
         <option name="FOREGROUND" value="89dd89" />
       </value>
     </option>
+    <option name="DEFAULT_TAG">
+      <value />
+    </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value />
     </option>
@@ -1204,16 +1207,21 @@
     <option name="JS.DOT">
       <value />
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="cccc33" />
@@ -1277,36 +1285,6 @@
     <option name="LOCALE.STRING_LITERAL">
       <value>
         <option name="FOREGROUND" value="66cc33" />
-      </value>
-    </option>
-    <option name="LOGCAT_V2_MESSAGE_ASSERT">
-      <value>
-        <option name="FOREGROUND" value="ff4f4f" />
-      </value>
-    </option>
-    <option name="LOGCAT_V2_MESSAGE_DEBUG">
-      <value>
-        <option name="FOREGROUND" value="b2e0b1" />
-      </value>
-    </option>
-    <option name="LOGCAT_V2_MESSAGE_ERROR">
-      <value>
-        <option name="FOREGROUND" value="ff4f4f" />
-      </value>
-    </option>
-    <option name="LOGCAT_V2_MESSAGE_INFO">
-      <value>
-        <option name="FOREGROUND" value="9dd7ff" />
-      </value>
-    </option>
-    <option name="LOGCAT_V2_MESSAGE_VERBOSE">
-      <value>
-        <option name="FOREGROUND" value="acacac" />
-      </value>
-    </option>
-    <option name="LOGCAT_V2_MESSAGE_WARNING">
-      <value>
-        <option name="FOREGROUND" value="ffac7e" />
       </value>
     </option>
     <option name="MAGIC_MEMBER_ACCESS">
@@ -1495,6 +1473,7 @@
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_PRIMITIVE_TYPE_HINT">
       <value>
         <option name="FOREGROUND" value="ffd582" />
@@ -1508,6 +1487,7 @@
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROTOCOL_REFERENCE">
       <value />
     </option>
