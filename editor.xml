@@ -75,7 +75,7 @@
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
+    <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old.js.only.show.names.for.tagged" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
