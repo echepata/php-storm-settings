@@ -3,6 +3,11 @@
     <blacklists>
       <blacklist language="PHP" />
     </blacklists>
+    <option id="js.only.show.names.for.tagged" value="false" />
+    <option id="js.only.show.names.for.pipes" value="false" />
     <option id="sql.show.column.names.in.insert.values" value="true" />
+    <disabledLanguages>
+      <language id="JavaScript" />
+    </disabledLanguages>
   </component>
 </application>
