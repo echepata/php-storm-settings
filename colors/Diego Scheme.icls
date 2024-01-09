@@ -1473,7 +1473,7 @@
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_PARAMETER" baseAttributes="" />
     <option name="PHP_PRIMITIVE_TYPE_HINT">
       <value>
         <option name="FOREGROUND" value="ffd582" />
@@ -1487,7 +1487,7 @@
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_VAR" baseAttributes="" />
     <option name="PROTOCOL_REFERENCE">
       <value />
     </option>
