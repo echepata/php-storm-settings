@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Add fluent setter" />
     <ignoreAction name="PHP/Symfony2MethodCreateService" />
+    <ignoreAction name="TypeScript/Disable coloring of narrowed types" />
   </component>
 </application>
