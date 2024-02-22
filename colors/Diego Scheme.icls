@@ -699,7 +699,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="" />
+    <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="cc7832" />
@@ -711,7 +711,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_STATIC_METHOD" baseAttributes="" />
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="89dd89" />
@@ -1207,21 +1207,21 @@
     <option name="JS.DOT">
       <value />
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="" />
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="" />
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="cccc33" />
@@ -1473,7 +1473,7 @@
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="" />
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_PRIMITIVE_TYPE_HINT">
       <value>
         <option name="FOREGROUND" value="ffd582" />
@@ -1487,7 +1487,7 @@
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="" />
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROTOCOL_REFERENCE">
       <value />
     </option>
